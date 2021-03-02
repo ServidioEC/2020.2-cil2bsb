@@ -4,12 +4,11 @@
 
 ## Sobre o projeto
 
-Repositório de documentação do projeto da disciplina de interação humano computador sobre o site cil2bsb.com.br
+Repositório de documentação do projeto da disciplina de Interação Humano-Computador sobre o site cil2bsb.com.br
 
 ## Sobre o site
 
-"O site consiste em um portal de noticias do Centro Interescolar de Línguas 02, de Brasilia, alem das noticias e algumas informações institucionais ( como por exemplo, o regimento interno para os alunos é o nome dos membros do conselho escolar) o portal mostra os projetos que a instituição mantem/participa, é os dados para comunicação com o Cil2(e outros CIL do DF). "
-
+"O site consiste em um portal de notícias do Centro Interescolar de Línguas 02, de Brasília. Além das notícias e algumas informações institucionais, como por exemplo, o regimento interno para os alunos e o nome dos membros do conselho escolar, o portal mostra os projetos que a instituição mantém/participa e os dados para comunicação com o Cil2 (e outros CIL do DF)."
 ## Equipe
 
 | Foto                                                                                                                                                  | Nome             | Email                          | github                                                 |
