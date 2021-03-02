@@ -15,8 +15,8 @@ _Fonte: BARBOSA, Simone et al. "Interação Humano-Computador". Capítulo 4, p 1
 
 As fases do ciclo de vida de Mayhew são: análise de requisitos, design, avaliação e desenvolvimento e instalação.
 
-- 1) Análise de requisitos: nesta fase são definidas as metas de usabilidade, com
-base em aspectos como perfil dos usuários, análise de tarefas, possibilidades e
+- 1) Análise de requisitos: nesta fase, são definidas as metas de usabilidade com
+base em aspectos como, perfil dos usuários, análise de tarefas, possibilidades e
 limitações da plataforma e princípios de design de Interação Humano-Computador.
 - 2) Design, avaliação e desenvolvimento: o objetivo desta fase é construir uma
 solução de Interação Humano-Computador que atenda as metas de usabilidade
