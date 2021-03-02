@@ -13,7 +13,7 @@
 
 <img alt= "logo-cil" src="../../images/logo-cil-quadrada.jpg" width = "600" />.
 
-<p align="justify">Em consenso, a equipe escolheu o site [CIL 2 BSB](http://www.cil2bsb.com.br/) para a realização do projeto da matéria Interação Humano-Computador. Vimos no site, um possível potencial de melhora, como por exemplo, melhorar a estética em geral e analisar algumas funcionalidades.</p>
+<p align="justify">Em consenso, a equipe escolheu o site <a href="http://www.cil2bsb.com.br/">CIL 2 BSB</a> para a realização do projeto da matéria Interação Humano-Computador. Vimos no site, um possível potencial de melhora, como por exemplo, melhorar a estética em geral e analisar algumas funcionalidades.</p>
 
 ## Outros sites analisados
 
