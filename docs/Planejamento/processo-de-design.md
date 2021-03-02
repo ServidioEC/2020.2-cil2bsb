@@ -2,10 +2,11 @@
 
 ## Histórico de Versões
 
-| Data       | Versão | Descrição                         | Autores                        | Revisor |
-| ---------- | ------ | --------------------------------  | ------------------------------ | ------- |
-| 02/03/2021 | 0.1    | Criação da Aba Processo de Design | Giovana, Gabriela, Herya, Luis | Eduarda |
-| 02/03/2021 | 0.2    | Correção de erros                 | Eduarda Servidio               | ------- |
+| Data       | Versão | Descrição                                     | Autores                        | Revisor |
+| ---------- | ------ | --------------------------------------------  | ------------------------------ | ------- |
+| 02/03/2021 | 0.1    | Criação da Aba Processo de Design             | Giovana, Gabriela, Herya, Luis | Eduarda |
+| 02/03/2021 | 0.2    | Correção de erros                             | Eduarda Servidio               | ------- |
+| 02/03/2021 | 0.4    | Melhora do visual (justificação dos textos)   | Eduarda Servidio               | ------- |
 
 ## Ciclo de Mayhew
 Optamos pela aplicação do Ciclo de Mayhew no desenvolvimento do nosso projeto por ser adequado ao processo de design de IHC. 
@@ -14,7 +15,7 @@ Optamos pela aplicação do Ciclo de Mayhew no desenvolvimento do nosso projeto 
 _Fonte: BARBOSA, Simone et al. "Interação Humano-Computador". Capítulo 4, p 110._
 
 
-As fases do ciclo de vida de Mayhew são: análise de requisitos, design, avaliação e desenvolvimento e instalação.
+<p align="justify">As fases do ciclo de vida de Mayhew são: análise de requisitos, design, avaliação e desenvolvimento e instalação.</p>
 
 <p align="justify">1) Análise de requisitos: nesta fase, são definidas as metas de usabilidade com base em aspectos como, perfil dos usuários, análise de tarefas, possibilidades e limitações da plataforma e princípios de design de Interação Humano-Computador. </p>
 <p align="justify">2) Design, avaliação e desenvolvimento: o objetivo desta fase é construir uma
