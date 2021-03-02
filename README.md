@@ -1,4 +1,4 @@
-# 2020.2-cil2bsb
+# Cil2bsb (2020.2)
 
 <img alt = "cli2_logo" src ="docs/images/logo-cil-2.png" width="400" />
 
@@ -8,7 +8,7 @@ Repositório de documentação do projeto da disciplina de interação humano co
 
 ## Sobre o site
 
-"O site consiste em um portal de noticias do Centro Interescolar de Línguas 02, de Brasilia, alem das noticias e algumas informações institucionais ( como por exemplo, o regimento interno para os alunos é o nome dos membros do conselho escolar) o portal mostra os projetos que a instituição mantem/participa, é os dados para comunicação com o Cil2(e outros CIL do DF). "
+"O site consiste em um portal de notícias do Centro Interescolar de Línguas 02, de Brasília. Além das notícias e algumas informações institucionais, como por exemplo, o regimento interno para os alunos e o nome dos membros do conselho escolar, o portal mostra os projetos que a instituição mantém/participa e os dados para comunicação com o Cil2 (e outros CIL do DF)."
 
 ## Equipe
 

@@ -1,6 +1,6 @@
-# 2020.2-cil2bsb
+# CIL 2 Bsb (2020.2)
 
-<img alt = "cli2_logo" src ="docs/images/logo-cil-2.png" width="400" />
+<img alt = "cli2_logo" src ="images/logo-cil-2.png" width="400" />
 
 ## Sobre o projeto
 
