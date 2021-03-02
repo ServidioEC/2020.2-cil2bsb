@@ -8,6 +8,7 @@
 | 02/03/2021 | 0.2    | Atualização da Wiki Planejamento              | Gabriela, Luis, Eduarda, Herya | Eduarda |
 | 02/03/2021 | 0.3    | Correção de Erros de Digitação                | Eduarda Servidio               | ------- |
 | 02/03/2021 | 0.4    | Melhora do visual (justificação dos textos)   | Eduarda Servidio               | ------- |
+| 02/03/2021 | 0.5    | Adição de descrição de sites analisados       | Hérya                   | ------- |
 
 ## Justificativa de escolha do site
 
@@ -20,7 +21,7 @@
 | Logo | Nome | Descrição |
 | ---- | ---- | --------- |
 | <img alt= "logo-MPU" src="../../images/logo-MPU.jpg" width = "500" /> | [Ministério Público da União](http://www.mpu.mp.br/) | <p align="justify">O site do Ministério Público da União foi avaliado pelos integrantes Pedro Haick e Gabriela Pivetta</p> |
-<img alt= "logo-CNN" src="../../images/logo-cnm.jpg" width = "300" /> | [Confederação Nacional de Municipios](https://www.cnm.org.br/) | <p align="justify">O site da Confederação Nacional de Municípios foi avaliado pela integrante Herya Rodrigues</p> |
+<img alt= "logo-CNN" src="../../images/logo-cnm.jpg" width = "300" /> | [Confederação Nacional de Municipios](https://www.cnm.org.br/) | <p align="justify">O site da Confederação Nacional de Municípios(CNM) foi avaliado pela integrante Hérya Rodrigues. A CNM é uma organização municipalista, apartidária, independente e sem fins lucrativos. Sua atuação é voltada à representação político-institucional dos municípios e ao fortalecimento da gestão municipal. O site da CNM é utilizado para difundir o movimento municipalista, além de noticiar acerca de acontecimentos políticos e sociais do Estado Brasileiro. </p> |
 | <img alt= "logo-SACI" src="../../images/logo-saci.jpg" width = "300" /> | [Saci](https://sistemas.anac.gov.br/saci/) | <p align="justify">O site do SACI foi avaliado pelo integrante Luis Marques e consiste em um portal que permite que o usuário realize o logbook (na aviação chamada de Caderneta Individual de Voo) de suas horas voadas, além de possibilitar a abertura de processos para concessão de licenças e habilitações para os aeronautas.</p> |
 | <img alt= "logo-Detran" src="../../images/logo-detran.jpg" width = "300" /> | [Detran DF](http://www.detran.df.gov.br/) | <p align="justify">O site do DetranDF foi avaliado pela integrante Eduarda Servidio. O site do Detran DF é um site do governo que visa a passar informações sobre o trânsito do Distrito Federal e meios e processos vinculados a ele.</p> |
 
