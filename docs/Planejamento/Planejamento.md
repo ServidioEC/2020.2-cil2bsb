@@ -2,11 +2,12 @@
 
 ## Histórico de Versões
 
-| Data       | Versão | Descrição                        | Autores                        | Revisor |
-| ---------- | ------ | -------------------------------- | ------------------------------ | ------- |
-| 02/03/2021 | 0.1    | Criação da Wiki Planejamento     | Gabriela Pivetta, Luis G.      | Eduarda |
-| 02/03/2021 | 0.2    | Atualização da Wiki Planejamento | Gabriela, Luis, Eduarda, Herya | Eduarda |
-| 02/03/2021 | 0.3    | Correção de Erros de Digitação   | Eduarda Servidio               | ------- |
+| Data       | Versão | Descrição                                     | Autores                        | Revisor |
+| ---------- | ------ | --------------------------------------------- | ------------------------------ | ------- |
+| 02/03/2021 | 0.1    | Criação da Wiki Planejamento                  | Gabriela Pivetta, Luis G.      | Eduarda |
+| 02/03/2021 | 0.2    | Atualização da Wiki Planejamento              | Gabriela, Luis, Eduarda, Herya | Eduarda |
+| 02/03/2021 | 0.3    | Correção de Erros de Digitação                | Eduarda Servidio               | ------- |
+| 02/03/2021 | 0.4    | Melhora do visual (justificação dos textos)   | Eduarda Servidio               | ------- |
 
 ## Justificativa de escolha do site
 
