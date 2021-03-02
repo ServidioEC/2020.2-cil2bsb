@@ -5,4 +5,7 @@ theme:
     favicon: images/logo-cil-2.png
     logo: images/logo-cil-2.png
 
+nav:
+    - Home: index.md
+
 docs_dir: docs/
