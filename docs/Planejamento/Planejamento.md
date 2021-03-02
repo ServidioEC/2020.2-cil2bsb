@@ -6,21 +6,22 @@
 | ---------- | ------ | -------------------------------- | ------------------------------ | ------- |
 | 02/03/2021 | 0.1    | Criação da Wiki Planejamento     | Gabriela Pivetta, Luis G.      | Eduarda |
 | 02/03/2021 | 0.2    | Atualização da Wiki Planejamento | Gabriela, Luis, Eduarda, Herya | Eduarda |
+| 02/03/2021 | 0.3    | Correção de Erros de Digitação   | Eduarda Servidio               | ------- |
 
 ## Justificativa de escolha do site
 
 <img alt= "logo-cil" src="../../images/logo-cil-quadrada.jpg" width = "600" />.
 
-Em consenso, a equipe escolheu o site [CIL 2 BSB](http://www.cil2bsb.com.br/) para a realização do projeto da matéria Interação Humano-Computador. Vimos no site, um possível potencial de melhora, como por exemplo, melhorar a estética em geral.
+Em consenso, a equipe escolheu o site [CIL 2 BSB](http://www.cil2bsb.com.br/) para a realização do projeto da matéria Interação Humano-Computador. Vimos no site, um possível potencial de melhora, como por exemplo, melhorar a estética em geral e analisar algumas funcionalidades.
 
 ## Outros sites analisados
 
 | Logo | Nome | Descrição |
 | ---- | ---- | --------- |
-| <img alt= "logo-MPU" src="../../images/logo-MPU.jpg" width = "500" /> | [Ministério Público da União](http://www.mpu.mp.br/) | O site do Ministério Público da União foi avaliado pelos integrantes Pedro Haick é Gabriela Pivetta |
-<img alt= "logo-CNN" src="../../images/logo-cnm.jpg" width = "300" /> | [Confederação Nacional de Municipios](https://www.cnm.org.br/) | O site da Confederação Nacional de Municipios foi avaliado pela integrante Herya Rodrigues |
-| <img alt= "logo-SACI" src="../../images/logo-saci.jpg" width = "300" /> | [Saci](https://sistemas.anac.gov.br/saci/) | O site do SACI foi avaliado pelo integrante Luis Marques e consiste em um portal que permite que o usuário realize o logbook (na aviação chamada de Caderneta Individual de Voo) de suas horas voadas, além de possibilitar a abertura de processos para conceção de licenças e habilitações para os aeronautas. |
-| <img alt= "logo-Detran" src="../../images/logo-detran.jpg" width = "300" /> | [Detran DF](http://www.detran.df.gov.br/) | O site da Confederação Nacional de Municipios foi avaliada pela integrante Eduarda Servidio |
+| <img alt= "logo-MPU" src="../../images/logo-MPU.jpg" width = "500" /> | [Ministério Público da União](http://www.mpu.mp.br/) | O site do Ministério Público da União foi avaliado pelos integrantes Pedro Haick e Gabriela Pivetta |
+<img alt= "logo-CNN" src="../../images/logo-cnm.jpg" width = "300" /> | [Confederação Nacional de Municipios](https://www.cnm.org.br/) | O site da Confederação Nacional de Municípios foi avaliado pela integrante Herya Rodrigues |
+| <img alt= "logo-SACI" src="../../images/logo-saci.jpg" width = "300" /> | [Saci](https://sistemas.anac.gov.br/saci/) | O site do SACI foi avaliado pelo integrante Luis Marques e consiste em um portal que permite que o usuário realize o logbook (na aviação chamada de Caderneta Individual de Voo) de suas horas voadas, além de possibilitar a abertura de processos para concessão de licenças e habilitações para os aeronautas. |
+| <img alt= "logo-Detran" src="../../images/logo-detran.jpg" width = "300" /> | [Detran DF](http://www.detran.df.gov.br/) | O site do DetranDF foi avaliado pela integrante Eduarda Servidio. O site do Detran DF é um site do governo que visa a passar informações sobre o trânsito do Distrito Federal e meios e processos vinculados a ele. |
 
 ## Heatmap
 
