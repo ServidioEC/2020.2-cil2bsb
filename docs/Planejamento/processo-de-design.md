@@ -33,4 +33,4 @@ futuras e até mesmo para apontar a necessidade de desenvolver novos sistemas.</
 
 ## Referências Bibliográficas
 
-<p align="justify">BARBOSA, Simone et al. "Interação Humano-Computador". Capítulo 4, p 110. Disponível em <https://aprender3.unb.br/pluginfile.php/791887/mod_resource/content/1/IHC%20CAP.4.pdf>. Acesso em 02 mar. 2021.</p>
+<p align="justify">BARBOSA, Simone et al. "Interação Humano-Computador". Capítulo 4, p 110. Disponível em <a href="https://aprender3.unb.br/pluginfile.php/791887/mod_resource/content/1/IHC%20CAP.4.pdf">https://aprender3.unb.br/pluginfile.php/791887/mod_resource/content/1/IHC%20CAP.4.pdf</a>. Acesso em 02 mar. 2021.</p>
