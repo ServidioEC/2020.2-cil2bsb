@@ -5,6 +5,7 @@
 | Data       | Versão | Descrição                         | Autores                        | Revisor |
 | ---------- | ------ | --------------------------------  | ------------------------------ | ------- |
 | 02/03/2021 | 0.1    | Criação da Aba Processo de Design | Giovana, Gabriela, Herya, Luis | Eduarda |
+| 02/03/2021 | 0.2    | Correção de erros                 | Eduarda Servidio               | ------- |
 
 ## Ciclo de Mayhew
 Optamos pela aplicação do Ciclo de Mayhew no desenvolvimento do nosso projeto por ser adequado ao processo de design de IHC. 
