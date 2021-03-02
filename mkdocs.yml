@@ -1,0 +1,8 @@
+site_name: Cil2bsb
+
+theme:
+    name: material
+    favicon: images/logo-cil-2.png
+    logo: images/logo-cil-2.png
+
+docs_dir: docs/
