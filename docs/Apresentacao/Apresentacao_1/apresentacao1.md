@@ -2,7 +2,7 @@
 
 Link da apresentação:
 
-<iframe width="820" height="500" src="https://www.youtube.com/watch?v=PeGcfn8kngc&feature=youtu.be" frameborder="0"
+<iframe width="820" height="500" src="https://www.youtube.com/embed/PeGcfn8kngc" frameborder="0"
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
     allowfullscreen></iframe>
 
