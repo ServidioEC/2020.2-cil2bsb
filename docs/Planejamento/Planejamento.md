@@ -8,7 +8,7 @@
 | 02/03/2021 | 0.2    | Atualização da Wiki Planejamento              | Gabriela, Luis, Eduarda, Herya | Eduarda |
 | 02/03/2021 | 0.3    | Correção de Erros de Digitação                | Eduarda Servidio               | ------- |
 | 02/03/2021 | 0.4    | Melhora do visual (justificação dos textos)   | Eduarda Servidio               | ------- |
-| 02/03/2021 | 0.5    | Adição de descrição de sites analisados       | Hérya                   | ------- |
+| 02/03/2021 | 0.5    | Adição de descrição de sites analisados       | Eduarda, Hérya, Luis           | ------- |
 
 ## Justificativa de escolha do site
 
