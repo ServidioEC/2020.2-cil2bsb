@@ -4,6 +4,9 @@ theme:
     name: material
     favicon: images/logo-cil-2.png
     logo: images/logo-cil-2.png
+    language: pt
+    features:
+        - header.autohide
 
 nav:
     - Home: index.md
