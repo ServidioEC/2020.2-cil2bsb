@@ -1,12 +1,19 @@
 # Apresentação 01 - Planejamento do Projeto
 
-Link da apresentação:
+## Histórico de Versões
+
+| Data       | Versão | Descrição                             | Autores               | Revisor |
+| ---------- | ------ | ------------------------------------- | ----------------------| ------- |
+| 02/03/2021 | 0.1    | Criação do Documento                  | Eduarda Servidio      | Luis G. |
+| 03/03/2021 | 0.2    | Correção do Link da Apresentação      | Luis Gustavo          | Eduarda |
+
+## Link da apresentação
 
 <iframe width="820" height="500" src="https://www.youtube.com/embed/PeGcfn8kngc" frameborder="0"
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
     allowfullscreen></iframe>
 
-Slides da apresentação:
+## Slides da apresentação
 
 ![image 1](imagens/slide_1.jpg)
 ![image 2](imagens/slide_2.jpg)
