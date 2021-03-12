@@ -4,21 +4,26 @@ theme:
     name: material
     favicon: images/logo-cil-2.png
     logo: images/logo-cil-2.png
+
     language: pt
     features:
         - header.autohide
-
+        - navigation.tabs
 nav:
     - Home: index.md
     - Apresentações:
-        - Apresentação 01: 'Apresentacao/Apresentacao_1/apresentacao1.md'
-        - Apresentação 02: ''
-        - Apresentação 03: ''
-        - Apresentação 04: ''
-        - Apresentação 05: ''
-        - Apresentação 06: ''
-    - Planejamento: 
-        - Planejamento: 'Planejamento/Planejamento.md'
-        - Processo de Design: 'Planejamento/processo-de-design.md'
+          - Apresentação 01: 'Apresentacao/Apresentacao_1/apresentacao1.md'
+          - Apresentação 02: ''
+          - Apresentação 03: ''
+          - Apresentação 04: ''
+          - Apresentação 05: ''
+          - Apresentação 06: ''
+    - Planejamento:
+          - Planejamento: 'Planejamento/Planejamento.md'
+          - Processo de Design: 'Planejamento/processo-de-design.md'
+    - Análise de requisitos:
+          - Perfil do usuário: 'Analise_Requisitos/perfil_usuario.md'
+          - Personas: 'Analise_Requisitos/personas.md'
+          - Análise de tarefas: 'Analise_Requisitos/tarefas.md'
 
 docs_dir: docs/

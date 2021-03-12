@@ -1,19 +1,19 @@
-# Processo de Design 
+# Processo de Design
 
 ## Histórico de Versões
 
-| Data       | Versão | Descrição                                     | Autores                        | Revisor |
-| ---------- | ------ | --------------------------------------------  | ------------------------------ | ------- |
-| 02/03/2021 | 0.1    | Criação da Aba Processo de Design             | Giovana, Gabriela, Herya, Luis | Eduarda |
-| 02/03/2021 | 0.2    | Correção de erros                             | Eduarda Servidio               | ------- |
-| 02/03/2021 | 0.3    | Melhora do visual (justificação dos textos)   | Eduarda Servidio               | ------- |
+| Data S     | Versão | Descrição                                   | Autores                        | Revisor |
+| ---------- | ------ | ------------------------------------------- | ------------------------------ | ------- |
+| 02/03/2021 | 0.1    | Criação da Aba Processo de Design           | Giovana, Gabriela, Herya, Luis | Eduarda |
+| 02/03/2021 | 0.2    | Correção de erros                           | Eduarda Servidio               | ------- |
+| 02/03/2021 | 0.3    | Melhora do visual (justificação dos textos) | Eduarda Servidio               | ------- |
 
 ## Ciclo de Mayhew
-Optamos pela aplicação do Ciclo de Mayhew no desenvolvimento do nosso projeto por ser adequado ao processo de design de IHC. 
+
+Optamos pela aplicação do Ciclo de Mayhew (Figura 1) no desenvolvimento do nosso projeto por ser adequado ao processo de design de IHC.
 
 ![ciclo_de_mayhew](https://raw.githubusercontent.com/Interacao-Humano-Computador/2020.1-BCE/edd3e519802d04e0e0b183d034c8dd47da35cdc1/docs/images/ciclo_mayhew.png)  
-_Fonte: BARBOSA, Simone et al. "Interação Humano-Computador". Capítulo 4, p 110._
-
+_Figura1: Ciclo de Mayhew. Fonte: BARBOSA, Simone et al. "Interação Humano-Computador". Capítulo 4, p 110._
 
 <p align="justify">As fases do ciclo de vida de Mayhew são: análise de requisitos, design, avaliação e desenvolvimento e instalação.</p>
 
