@@ -1,8 +1,9 @@
 ## Histórico de Versões
 
-| Data       | Versão | Descrição            | Autores                             | Revisor |
-| ---------- | ------ | -------------------- | ----------------------------------- | ------- |
-| 12/03/2021 | 0.1    | Criação do Documento | Eduarda, Luis Marques, Herya, Pedro | ------- |
+| Data       | Versão | Descrição            | Autores                             | Revisor      |
+| ---------- | ------ | -------------------- | ----------------------------------- | ------------ |
+| 12/03/2021 | 0.1    | Criação do Documento | Eduarda, Luis Marques, Herya, Pedro | Luis Marques |
+| 14/03/2021 | 0.2    | Adição persona 2     | Luis Marques                        | -------      |
 
 ## Introdução
 
@@ -13,6 +14,17 @@
 ### Persona 1:
 
     Ana Júlia:
+
+## Persona 2:
+
+|          |                                                                            |
+| -------- | -------------------------------------------------------------------------- |
+| Foto     | <img alt= "logo-Detran" src="../Images/persona_2_17.jpeg" width = "300" /> |
+| Nome     | Fernanda Siqueira                                                          |
+| Idade    | 17 anos                                                                    |
+| Ocupação | Estudante                                                                  |
+
+<p align="justify">Fernanda é uma estudante do ensino médio da rede pública do distrito federal, e sabe da importância de se aprender um outro idioma para a sua melhor colocação no mercado de trabalho, Fernanda então resolve se matricular em uma das unidades do Centro Interescolar de línguas do GDF, por uma questão de proximidade com a sua residência e com a sua casa, Fernanda então resolve se matricular no CIl 2. E para isto ela resolve entrar no site do CIL para ter informações sobre como deve ocorrer a matrícula.</p>
 
 ## Referências Bibliográficas
 
