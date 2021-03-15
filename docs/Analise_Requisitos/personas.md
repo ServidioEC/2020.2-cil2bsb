@@ -4,9 +4,9 @@
 | ---------- | ------ | --------------------                      | ----------------------------------- | ------------ |
 | 12/03/2021 | 0.1    | Criação do Documento                      | Eduarda, Luis Marques, Herya, Pedro | Luis Marques |
 | 14/03/2021 | 0.2    | Adição persona 2                          | Luis Marques                        | Pedro Haick  |
-| 15/03/2021 | 0.3    | Adição persona 1                          | Pedro Haick                         | -----------  |
-| 15/03/2021 | 0.4    | Correções e detalhamento das personas     | Pedro Haick                         | -----------  |
-| 15/03/2021 | 0.5    | Adição da persona 3                       | Eduarda Servidio                    | -----------  |
+| 15/03/2021 | 0.3    | Adição persona 1                          | Pedro Haick                         | Eduarda S.   |
+| 15/03/2021 | 0.4    | Correções e detalhamento das personas     | Pedro Haick                         | Eduarda S.   |
+| 15/03/2021 | 0.5    | Adição e detalhamento da persona 3        | Eduarda Servidio                    | -----------  |
 
 ## Introdução
 
@@ -54,7 +54,7 @@
 | Habilidades | Sabe falar 3 línguas: português, inglês e francês                          |
 | Expectativa | Encontrar notícias no site do CIL2BSB                                      |
 
-<p align="justify">Fernanda é uma estudante do ensino médio da rede pública do distrito federal, e sabe da importância de se aprender um outro idioma para a sua melhor colocação no mercado de trabalho, Fernanda então resolve se matricular em uma das unidades do Centro Interescolar de línguas do GDF, por uma questão de proximidade com a sua residência e com a sua casa, Fernanda então resolve se matricular no CIl 2. E para isto ela resolve entrar no site do CIL para ter informações sobre como deve ocorrer a matrícula.</p>
+<p align="justify">Milena Barbosa é professora de língua inglesa no Centro Interescolar de Línguas 02 de Brasília. Para ficar por dentro de todos os acontecimentos em seu trabalho, Milena gosta de ler notícias sobre o CIL2BSB e seus alunos. Para isso, Milena frequentemente acessa o site do CIL2BSB para verificar as atualizações nas notícias. Milena sempre espera encontrar notícias importantes por lá.</p>
 
 ## Referências Bibliográficas
 
