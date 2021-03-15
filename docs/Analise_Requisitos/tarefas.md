@@ -36,12 +36,12 @@ usuários querem ou precisam atingir."(Barbosa e Silva, 2019)</p>
 4) Regras de seleção: são as tomadas de decisão dos usuários sobre qual método utilizar em uma situação.
 Há diferentes modelos GOMS, como KLM e CMN-GOMS.
 
-### 4.1  KLM
-###4.1.1 Definição
+### 4.2  KLM
+###4.2.1 Definição
 <p align="justify">É uma técnica GOMS simples, a qual limita-se a um conjunto predefinido de operadores.</p>
 
-### 4.2 CMN-GOMS
-###4.2.1 Definição
+### 4.3 CMN-GOMS
+###4.3.1 Definição
 <p align="justify">É a proposta original do GOMS. "Há uma hierarquia estrita de objetivos, os operadores são executados estritamente em ordem sequencial, e os métodos são representados numa notação semelhante a um pseudocódigo, que inclui submétodos e condicionais."(Barbosa e Silva, 2019)</p>
 Será realizada a análise de CMN-GOMS para cada uma das personas primárias apresentadas.
 
