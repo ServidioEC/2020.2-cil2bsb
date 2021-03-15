@@ -3,7 +3,7 @@
 | Data       | Versão | Descrição                                                | Autores                             | Revisor |
 | ---------- | ------ | -------------------------------------------------------- | ----------------------------------- | ------- |
 | 12/03/2021 | 0.1    | Criação do Documento                                     | Eduarda, Luis Marques, Herya, Pedro | ------- |
-| 15/03/2021 | 0.2    | Descrição da análise GOMS                                | Hérya                               | ------- |
+| 15/03/2021 | 0.2    | Descrição da análise GOMS                                | Hérya                               | Eduarda |
 | 15/03/2021 | 0.3    | Objetivos e Análise de Tarefas da Persona Secundária     | Eduarda Servidio                    | ------- |
 
 ## 1. Definição
@@ -24,6 +24,7 @@ usuários querem ou precisam atingir."(Barbosa e Silva, 2019)</p>
 <p align="justify">Nossa análise de persona secundária tem como foco Milena Barbosa, 38 anos, professora de língua inglesa do CIL2-BSB que pretende estar ciente de todas as possíveis notícias que envolvem o CIL2BSB através do site deles.</p>
 
 ## 4. Análise GOMS
+###4.1 Definição
 <p align="justify">GOMS é um método para analisar o desempenho de usuários de sistemas computacionais, realizando tarefas dentro da sua competência e sem cometer erros. Esse método descreve uma tarefa e o conhecimento do usuário sobre como realizá-la em termos de objetivos, operadores, métodos e regras de seleção.</p>
 
 1) Objetivos: são aquilo que o usuário deseja realizar utilizando o sistema.
@@ -36,10 +37,11 @@ usuários querem ou precisam atingir."(Barbosa e Silva, 2019)</p>
 Há diferentes modelos GOMS, como KLM e CMN-GOMS.
 
 ### 4.1  KLM
- 
+###4.1.1 Definição
 <p align="justify">É uma técnica GOMS simples, a qual limita-se a um conjunto predefinido de operadores.</p>
 
 ### 4.2 CMN-GOMS
+###4.2.1 Definição
 <p align="justify">É a proposta original do GOMS. "Há uma hierarquia estrita de objetivos, os operadores são executados estritamente em ordem sequencial, e os métodos são representados numa notação semelhante a um pseudocódigo, que inclui submétodos e condicionais."(Barbosa e Silva, 2019)</p>
 Será realizada a análise de CMN-GOMS para cada uma das personas primárias apresentadas.
 
