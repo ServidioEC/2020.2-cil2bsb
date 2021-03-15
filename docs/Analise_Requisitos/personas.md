@@ -1,10 +1,11 @@
 ## Histórico de Versões
 
-| Data       | Versão | Descrição            | Autores                             | Revisor      |
-| ---------- | ------ | -------------------- | ----------------------------------- | ------------ |
-| 12/03/2021 | 0.1    | Criação do Documento | Eduarda, Luis Marques, Herya, Pedro | Luis Marques |
-| 14/03/2021 | 0.2    | Adição persona 2     | Luis Marques                        | Pedro Haick  |
-| 15/03/2021 | 0.3    | Adição persona 1     | Pedro Haick                         | -----------  |
+| Data       | Versão | Descrição                                 | Autores                             | Revisor      |
+| ---------- | ------ | --------------------                      | ----------------------------------- | ------------ |
+| 12/03/2021 | 0.1    | Criação do Documento                      | Eduarda, Luis Marques, Herya, Pedro | Luis Marques |
+| 14/03/2021 | 0.2    | Adição persona 2                          | Luis Marques                        | Pedro Haick  |
+| 15/03/2021 | 0.3    | Adição persona 1                          | Pedro Haick                         | -----------  |
+| 15/03/2021 | 0.3    | Correções e detalhamento das personas     | Pedro Haick                         | -----------  |
 
 ## Introdução
 
@@ -14,12 +15,16 @@
 
 ### Persona 1:
 
-|          |                                                                            |
-| -------- | -------------------------------------------------------------------------- |
-| Foto     |                                                                            |
-| Nome     | Ana Júlia Silva                                                            |
-| Idade    | 16 anos                                                                    |
-| Ocupação | Estudante                                                                  |
+|              |                                                                                      |
+| --------     | --------------------------------------------------------------------------           |
+| Foto         |                                                                                      |
+| Tipo         | Persona primária                                                                     |
+| Nome         | Ana Júlia Silva                                                                      |
+| Idade        | 16 anos                                                                              |
+| Ocupação     | Estudante                                                                            |
+| Objetivo     | Começar a estudar uma nova língua                                                    |
+| Tarefas      | Descobrir mais informações a respeito do CIL e eventualmente se matricular           |
+| Expectativas | Espera que o CIL atenda suas necessidades e que o site permita realizar suas tarefas |
 
 <p align="justify">Após recentemente desenvolver interesse por línguas estrangeiras, Ana Júlia decidiu pesquisar por organizações que prestem esse tipo de serviço. Ao se deparar com o site do Centro Interescolar de Línguas, achou a proposta interessante, porém ainda não conhece maiores detalhes sobre. No momento, está tentando descobrir mais sobre o CIL e aprender a utilizar o site.</p>
 
@@ -28,6 +33,7 @@
 |          |                                                                            |
 | -------- | -------------------------------------------------------------------------- |
 | Foto     | <img alt= "logo-Detran" src="../Images/persona_2_17.jpeg" width = "300" /> |
+| Tipo     | Persona primária                                                           |
 | Nome     | Fernanda Siqueira                                                          |
 | Idade    | 17 anos                                                                    |
 | Ocupação | Estudante                                                                  |
