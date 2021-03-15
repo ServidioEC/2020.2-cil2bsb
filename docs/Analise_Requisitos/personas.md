@@ -38,8 +38,21 @@
 | Idade    | 17 anos                                                                    |
 | Ocupação | Estudante                                                                  |
 
+### Persona 3:
+
+|             |                                                                            |
+| ----------- | -------------------------------------------------------------------------- |
+| Foto        | <img alt= "persona-3" src="../Images/persona_3.jpeg" width = "300" /> (Imagem retirada do site: https://thispersondoesnotexist.com/) |
+| Tipo        | Persona secundária                                                         |
+| Nome        | Milena Barbosa                                                             |
+| Idade       | 38 anos                                                                    |
+| Ocupação    | Professora de língua inglesa no CIL2BSB                                    |
+| Objetivos   | Estar ciente de todas as possíveis notícias que envolvem o CIL2BSB         |
+| Habilidades | Sabe falar 3 línguas: português, inglês e francês                          |
+| Expectativa | Encontrar notícias no site do CIL2BSB                                      |
+
 <p align="justify">Fernanda é uma estudante do ensino médio da rede pública do distrito federal, e sabe da importância de se aprender um outro idioma para a sua melhor colocação no mercado de trabalho, Fernanda então resolve se matricular em uma das unidades do Centro Interescolar de línguas do GDF, por uma questão de proximidade com a sua residência e com a sua casa, Fernanda então resolve se matricular no CIl 2. E para isto ela resolve entrar no site do CIL para ter informações sobre como deve ocorrer a matrícula.</p>
 
 ## Referências Bibliográficas
 
-<p align="justify">BARBOSA, Simone et al. "Interação Humano-Computador". Capítulo 4, p 176. Disponível em <a href="https://aprender3.unb.br/pluginfile.php/673735/mod_resource/content/3/Simone_Barbosa_Bruno-Interacao_humano_computador%20Cap%206%20Organizacao%20.pdf</a>. Acesso em 12 mar. 2021.</p>
+<p align="justify">BARBOSA, Simone et al. "Interação Humano-Computador". </p>
