@@ -17,7 +17,7 @@
 
 |              |                                                                                      |
 | --------     | --------------------------------------------------------------------------           |
-| Foto         |                                                                                      |
+| Foto         |  <img alt= "persona-1" src="../Images/persona_1_16.jpeg" width = "300" />          |
 | Tipo         | Persona primária                                                                     |
 | Nome         | Ana Júlia Silva                                                                      |
 | Idade        | 16 anos                                                                              |
@@ -32,7 +32,7 @@
 
 |          |                                                                            |
 | -------- | -------------------------------------------------------------------------- |
-| Foto     | <img alt= "logo-Detran" src="../Images/persona_2_17.jpeg" width = "300" /> |
+| Foto     | <img alt= "persona-2" src="../Images/persona_2_17.jpeg" width = "300" />   |
 | Tipo     | Persona primária                                                           |
 | Nome     | Fernanda Siqueira                                                          |
 | Idade    | 17 anos                                                                    |
