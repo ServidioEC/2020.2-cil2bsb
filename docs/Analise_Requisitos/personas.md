@@ -3,7 +3,8 @@
 | Data       | Versão | Descrição            | Autores                             | Revisor      |
 | ---------- | ------ | -------------------- | ----------------------------------- | ------------ |
 | 12/03/2021 | 0.1    | Criação do Documento | Eduarda, Luis Marques, Herya, Pedro | Luis Marques |
-| 14/03/2021 | 0.2    | Adição persona 2     | Luis Marques                        | -------      |
+| 14/03/2021 | 0.2    | Adição persona 2     | Luis Marques                        | Pedro Haick  |
+| 15/03/2021 | 0.3    | Adição persona 1     | Pedro Haick                         | -----------  |
 
 ## Introdução
 
@@ -13,7 +14,14 @@
 
 ### Persona 1:
 
-    Ana Júlia:
+|          |                                                                            |
+| -------- | -------------------------------------------------------------------------- |
+| Foto     |                                                                            |
+| Nome     | Ana Júlia Silva                                                            |
+| Idade    | 16 anos                                                                    |
+| Ocupação | Estudante                                                                  |
+
+<p align="justify">Após recentemente desenvolver interesse por línguas estrangeiras, Ana Júlia decidiu pesquisar por organizações que prestem esse tipo de serviço. Ao se deparar com o site do Centro Interescolar de Línguas, achou a proposta interessante, porém ainda não conhece maiores detalhes sobre. No momento, está tentando descobrir mais sobre o CIL e aprender a utilizar o site.</p>
 
 ## Persona 2:
 
