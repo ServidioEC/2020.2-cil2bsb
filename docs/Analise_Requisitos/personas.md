@@ -1,9 +1,14 @@
 ## Histórico de Versões
 
-| Data       | Versão | Descrição            | Autores                             | Revisor      |
-| ---------- | ------ | -------------------- | ----------------------------------- | ------------ |
-| 12/03/2021 | 0.1    | Criação do Documento | Eduarda, Luis Marques, Herya, Pedro | Luis Marques |
-| 14/03/2021 | 0.2    | Adição persona 2     | Luis Marques                        | -------      |
+| Data       | Versão | Descrição                               | Autores                             | Revisor      |
+| ---------- | ------ | --------------------------------------- | ----------------------------------- | ------------ |
+| 12/03/2021 | 0.1    | Criação do Documento                    | Eduarda, Luis Marques, Herya, Pedro | Luis Marques |
+| 14/03/2021 | 0.2    | Adição persona 2                        | Luis Marques                        | Pedro Haick  |
+| 15/03/2021 | 0.3    | Adição persona 1                        | Pedro Haick                         | Eduarda S.   |
+| 15/03/2021 | 0.4    | Correções e detalhamento das personas   | Pedro Haick                         | Eduarda S.   |
+| 15/03/2021 | 0.5    | Adição e detalhamento da persona 3      | Eduarda Servidio                    | Hérya        |
+| 15/03/2021 | 0.6    | Adição e detalhamento da anti-persona 1 | Hérya                               | Eduarda S.   |
+| 16/03/2021 | 0.7    | detalhamento da persona 2               | Luis Marques                        | ---          |
 
 ## Introdução
 
@@ -13,19 +18,64 @@
 
 ### Persona 1:
 
-    Ana Júlia:
+|              |                                                                                      |
+| ------------ | ------------------------------------------------------------------------------------ |
+| Foto         | <img alt= "persona-1" src="../Images/persona_1_16.jpeg" width = "300" />             |
+| Tipo         | Persona primária                                                                     |
+| Nome         | Ana Júlia Silva                                                                      |
+| Idade        | 16 anos                                                                              |
+| Ocupação     | Estudante                                                                            |
+| Objetivo     | Começar a estudar uma nova língua                                                    |
+| Tarefas      | Descobrir mais informações a respeito do CIL e eventualmente se matricular           |
+| Expectativas | Espera que o CIL atenda suas necessidades e que o site permita realizar suas tarefas |
 
-## Persona 2:
+<p align="justify">Após recentemente desenvolver interesse por línguas estrangeiras, Ana Júlia decidiu pesquisar por organizações que prestem esse tipo de serviço. Ao se deparar com o site do Centro Interescolar de Línguas, achou a proposta interessante, porém ainda não conhece maiores detalhes sobre. No momento, está tentando descobrir mais sobre o CIL e aprender a utilizar o site.</p>
 
-|          |                                                                            |
-| -------- | -------------------------------------------------------------------------- |
-| Foto     | <img alt= "logo-Detran" src="../Images/persona_2_17.jpeg" width = "300" /> |
-| Nome     | Fernanda Siqueira                                                          |
-| Idade    | 17 anos                                                                    |
-| Ocupação | Estudante                                                                  |
+### Persona 2:
 
-<p align="justify">Fernanda é uma estudante do ensino médio da rede pública do distrito federal, e sabe da importância de se aprender um outro idioma para a sua melhor colocação no mercado de trabalho, Fernanda então resolve se matricular em uma das unidades do Centro Interescolar de línguas do GDF, por uma questão de proximidade com a sua residência e com a sua casa, Fernanda então resolve se matricular no CIl 2. E para isto ela resolve entrar no site do CIL para ter informações sobre como deve ocorrer a matrícula.</p>
+|              |                                                                          |
+| ------------ | ------------------------------------------------------------------------ |
+| Foto         | <img alt= "persona-2" src="../Images/persona_2_17.jpeg" width = "300" /> |
+| Tipo         | Persona primária                                                         |
+| Nome         | Fernanda Siqueira                                                        |
+| Idade        | 17 anos                                                                  |
+| Ocupação     | Estudante                                                                |
+| Objetivo     | Realizar a matricula no cil2bsb                                          |
+| Tarefas      | Obter informações de como realizar a matricula no cil2bsb                |
+| Expectativas | espera obter essas informações de forma clara e sucinta                  |
+
+<p align="justify">Fernanda é uma estudante do ensino médio da rede pública do distrito federal e sabe da importância de se aprender um outro idioma para a sua melhor colocação no mercado de trabalho. Fernanda então resolve se matricular em uma das unidades do Centro Interescolar de línguas de Brasília, por uma questão de proximidade com a sua residência e com a sua casa, escolhe o CIL2-BSB. E para isto ela resolve entrar no site do CIL2-BSB para ter informações sobre como deve ocorrer a matrícula.</p>
+
+### Persona 3:
+
+|             |                                                                                                                                     |
+| ----------- | ----------------------------------------------------------------------------------------------------------------------------------- |
+| Foto        | <img alt= "persona-3" src="../Images/persona_3.jpg" width = "300" /> (Imagem retirada do site: https://thispersondoesnotexist.com/) |
+| Tipo        | Persona secundária                                                                                                                  |
+| Nome        | Milena Barbosa                                                                                                                      |
+| Idade       | 38 anos                                                                                                                             |
+| Ocupação    | Professora de língua inglesa no CIL2BSB                                                                                             |
+| Objetivos   | Estar ciente de todas as possíveis notícias que envolvem o CIL2BSB                                                                  |
+| Habilidades | Sabe falar 3 línguas: português, inglês e francês                                                                                   |
+| Expectativa | Encontrar notícias no site do CIL2BSB                                                                                               |
+
+<p align="justify">Milena Barbosa é professora de língua inglesa no Centro Interescolar de Línguas 02 de Brasília. Para ficar por dentro de todos os acontecimentos em seu trabalho, Milena gosta de ler notícias sobre o CIL2BSB e seus alunos. Para isso, Milena frequentemente acessa o site do CIL2BSB para verificar as atualizações nas notícias. Milena sempre espera encontrar notícias importantes por lá.</p>
+
+### Anti-Persona 1:
+
+|             |                                                                                                                                      |
+| ----------- | ------------------------------------------------------------------------------------------------------------------------------------ |
+| Foto        | <img alt= "persona-4" src="../Images/persona-4.jpeg" width = "300" /> (Imagem retirada do site: https://thispersondoesnotexist.com/) |
+| Tipo        | Anti-Persona                                                                                                                         |
+| Nome        | Cláudio Ferreira Santos                                                                                                              |
+| Idade       | 33 anos                                                                                                                              |
+| Ocupação    | Jornalista                                                                                                                           |
+| Objetivos   | Informar-se sobre a situação sociopolítica do Brasil                                                                                 |
+| Habilidades | Fluência em inglês e português                                                                                                       |
+| Expectativa | Encontrar notícias referente a situação política e social do Brasil no site do CIL2BSB                                               |
+
+<p align="justify">Cláudio Ferreira dos Santos é um jornalista brasileiro, mas reside na Alemanha há 25 anos. Para manter-se sempre informado dos acontecimentos do Brasil, em especial da capital, ele recorre à sites e portais brasileiros. Assim, o foco de Cláudio é em notícias sociais e políticas, e não informações relacionadas aos cursos do CIL2BSB.</p>
 
 ## Referências Bibliográficas
 
-<p align="justify">BARBOSA, Simone et al. "Interação Humano-Computador". Capítulo 4, p 176. Disponível em <a href="https://aprender3.unb.br/pluginfile.php/673735/mod_resource/content/3/Simone_Barbosa_Bruno-Interacao_humano_computador%20Cap%206%20Organizacao%20.pdf</a>. Acesso em 12 mar. 2021.</p>
+<p align="justify">BARBOSA, Simone et al. "Interação Humano-Computador". </p>
