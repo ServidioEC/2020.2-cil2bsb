@@ -24,9 +24,9 @@ usuários querem ou precisam atingir."(Barbosa e Silva, 2019)</p>
 <p align="justify">Nossa análise de persona secundária tem como foco Milena Barbosa, 38 anos, professora de língua inglesa do CIL2-BSB que pretende estar ciente de todas as possíveis notícias que envolvem o CIL2BSB através do site deles.</p>
 <img alt = "Analise de Tarefas Persona Secundaria" src="../../Analise_Requisitos/Images/Analise_Persona_Secundaria.jpg" width = "600"/>
 
-_Figura1: Análise de Tarefas Persona Secundária. Autor: Eduarda Servidio._
+_Figura3: Análise de Tarefas Persona Secundária. Autor: Eduarda Servidio._
 
-| Objetivos                      |                                                                                                                    |
+| Objetivos                      | Recomendações                                                                                                      |
 | ------------------------------ | ------------------------------------------------------------------------------------------------------------------ |
 | Acessar o site do CIL2BSB      | <b>Ação</b>: entrar no site http://www.cil2bsb.com.br/                                                             |
 | Acessar as notícias            | <b>Ação</b>: selecionar uma notícia na Página Home. Ou <b>Ação</b>: selecionar na aba superior "Notícias"          |
