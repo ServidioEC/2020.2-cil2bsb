@@ -25,7 +25,7 @@ usuários querem ou precisam atingir."(Barbosa e Silva, 2019)</p>
 
 ####3.1.2 Fernanda Siqueira
 
-<p align="justify">Nossa segunda análise será de Fernanda Siqueira, 17 anos, que busca informações de como realizar a matrícula no CIL2-BSB</p>
+<p align="justify">Nossa segunda análise de persona primária será de Fernanda Siqueira, 17 anos, que busca informações de como realizar a matrícula no CIL2-BSB</p>
 <img alt = "Analise de Tarefas Persona Primária 2" src="../../Analise_Requisitos/Images/Analise_de_Tarefa_Persona_Primaria_2.jpg" width = "600"/>
 
 _Figura3: Análise de Tarefas Persona Primária 2. Autor: Luis Marques._
