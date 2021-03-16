@@ -1,19 +1,11 @@
 ## Histórico de Versões
 
-<<<<<<< HEAD
 | Data       | Versão | Descrição                                            | Autores                             | Revisor |
 | ---------- | ------ | ---------------------------------------------------- | ----------------------------------- | ------- |
 | 12/03/2021 | 0.1    | Criação do Documento                                 | Eduarda, Luis Marques, Herya, Pedro | ------- |
 | 15/03/2021 | 0.2    | Descrição da análise GOMS                            | Hérya                               | Eduarda |
 | 15/03/2021 | 0.3    | Objetivos e Análise de Tarefas da Persona Secundária | Eduarda Servidio                    | Hérya   |
 | 16/03/2021 | 0.4    | Adição de analise, e GOMS da persona 2               | Luis Marques                        | ---     |
-=======
-| Data       | Versão | Descrição                                                | Autores                             | Revisor |
-| ---------- | ------ | -------------------------------------------------------- | ----------------------------------- | ------- |
-| 12/03/2021 | 0.1    | Criação do Documento                                     | Eduarda, Luis Marques, Herya, Pedro | ------- |
-| 15/03/2021 | 0.2    | Descrição da análise GOMS                                | Hérya                               | Eduarda |
-| 15/03/2021 | 0.3    | Objetivos e Análise de Tarefas da Persona Secundária     | Eduarda Servidio                    | Hérya |
->>>>>>> 94d575ffb7f80ed21226d5cb091363dfa6f8170a
 
 ## 1. Definição
 
@@ -22,7 +14,6 @@ eles o realizam e por quê. Nesse tipo de análise, o trabalho é definido em te
 usuários querem ou precisam atingir."(Barbosa e Silva, 2019)</p>
 
 ## 2. Objetivo
-<<<<<<< HEAD
 
 <p align="justify">A análise terá como foco melhorar as funcionalidades do site CIL2BSB, bem como sua estética. Assim sendo, faremos uma análise a partir de 3 personas para entendermos melhor sobre o uso do site, bem como obter maiores informações.</p>
 
@@ -43,13 +34,6 @@ _Figura3: Análise de Tarefas Persona 2. Autor: Luis Marques._
 | Acessar as opções para alunos                 | <b>Ação</b>: selecionar na aba superior "Alunos"       |
 | Acessar as informações sobre novas matrículas | <b>Ação</b>: Selecionar na Matrículas novas            |
 
-=======
-<p align="justify">A análise terá como foco melhorar as funcionalidades do site CIL2BSB, bem como sua estética. Assim sendo, faremos uma análise a partir de 3 personas para entendermos melhor sobre o uso do site, bem como obter maiores informações.</p>
-
-## 3. Análise Hierárquica de Tarefas
-###3.1 Personas primárias
-
->>>>>>> 94d575ffb7f80ed21226d5cb091363dfa6f8170a
 ###3.2 Persona Secundária
 ####3.2.1 Milena Barbosa
 
@@ -58,7 +42,6 @@ _Figura3: Análise de Tarefas Persona 2. Autor: Luis Marques._
 
 _Figura3: Análise de Tarefas Persona Secundária. Autor: Eduarda Servidio._
 
-<<<<<<< HEAD
 | Objetivos                      | Recomendações                                                                                                       |
 | ------------------------------ | ------------------------------------------------------------------------------------------------------------------- |
 | Acessar o site do CIL2BSB      | <b>Ação</b>: entrar no site http://www.cil2bsb.com.br/                                                              |
@@ -112,36 +95,6 @@ Para a análise usaremos os seguintes termos
         OP : Realizar um clique com mouse para que abra o submenu
     Goal 2 : Acessas as informações sobre novas matrículas
         OP : Clicar com o mouse em Matrículas novas
-=======
-| Objetivos                      | Recomendações                                                                                                      |
-| ------------------------------ | ------------------------------------------------------------------------------------------------------------------ |
-| Acessar o site do CIL2BSB      | <b>Ação</b>: entrar no site http://www.cil2bsb.com.br/                                                             |
-| Acessar as notícias            | <b>Ação</b>: selecionar uma notícia na Página Home. Ou <b>Ação</b>: selecionar na aba superior "Notícias"          |
-| Acessar uma notícia específica | <b>Ação</b>: selecionar uma notícia específica do site CIL2BSB. <b>Plano</b>: Conseguir ter acesso a alguma notícia|
-
-## 4. Análise GOMS
-###4.1 Definição Análise GOMS
-<p align="justify">GOMS é um método para analisar o desempenho de usuários de sistemas computacionais, realizando tarefas dentro da sua competência e sem cometer erros. Esse método descreve uma tarefa e o conhecimento do usuário sobre como realizá-la em termos de objetivos, operadores, métodos e regras de seleção.</p>
-
-1) Objetivos: são aquilo que o usuário deseja realizar utilizando o sistema.
-
-2) Operadores: são as ações que o sistema permite que o usuário faça.
-
-3) Métodos: são sequências bem conhecidas de subobjetivos e operadores que permitam que o um objetivo maior seja atingido.
-
-4) Regras de seleção: são as tomadas de decisão dos usuários sobre qual método utilizar em uma situação.
-Há diferentes modelos GOMS, como KLM e CMN-GOMS.
-
-### 4.2  KLM
-###4.2.1 Definição KLM
-<p align="justify">É uma técnica GOMS simples, a qual limita-se a um conjunto predefinido de operadores.</p>
-
-### 4.3 CMN-GOMS
-###4.3.1 Definição CMN-GOMS
-<p align="justify">É a proposta original do GOMS. "Há uma hierarquia estrita de objetivos, os operadores são executados estritamente em ordem sequencial, e os métodos são representados numa notação semelhante a um pseudocódigo, que inclui submétodos e condicionais."(Barbosa e Silva, 2019)</p>
-Será realizada a análise de CMN-GOMS para cada uma das personas primárias apresentadas.
-
->>>>>>> 94d575ffb7f80ed21226d5cb091363dfa6f8170a
 
 ## Referências Bibliográficas
 
