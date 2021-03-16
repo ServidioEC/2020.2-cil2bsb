@@ -11,7 +11,7 @@
 <p align="justify"> A partir das infromações levantadas, separa-se os usuários em grupos que serão baseados nas suas características comuns. Com esses grupos, é possível escolher quais perfis serão priorizados no processo de design do produto em questão. </p>
 
 ## Metodologia
-<p align="justify"> Utilizamos um questionário para coletarmos as informações sobre os perfis de usuário do site CIL2 BSB. Foram feitas perguntas relacionadas às características básicas de cada um, como gênero, idade e afinidade com tecnologia. Além disso, questionamos especificamente os usuários do CIL2 BSB sobre as suas experiências com o site. </p>
+<p align="justify"> Utilizamos um questionário elaborado através da plataforma do Google Forms e divulgado, através das redes sociais, entre usuários e não usuários do site CIL2 BSB para coletarmos as informações sobre seus perfis. Foram feitas perguntas relacionadas às características básicas de cada um, como gênero, idade e afinidade com tecnologia. Além disso, questionamos especificamente os usuários do CIL2 BSB sobre as suas experiências com o site. </p>
 
 ## Resultados
 
