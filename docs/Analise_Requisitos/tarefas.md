@@ -6,7 +6,7 @@
 | 15/03/2021 | 0.2    | Descrição da análise GOMS                            | Hérya                               | Eduarda |
 | 15/03/2021 | 0.3    | Objetivos e Análise de Tarefas da Persona Secundária | Eduarda Servidio                    | Hérya   |
 | 16/03/2021 | 0.4    | Adição de analise, e GOMS da persona 2               | Luis Marques                        | Eduarda |
-| 16/03/2021 | 0.5    | Correção Analise de GOMS Persona Primaria 2          | Eduarda Servidio                    | ------- |
+| 16/03/2021 | 0.5    | Correção: Análise de GOMS e Complementação: Esquema da Análise de Tarefas (Persona Primaria 2)          | Eduarda Servidio                    | ------- |
 
 ## 1. Definição
 
@@ -29,7 +29,7 @@ usuários querem ou precisam atingir."(Barbosa e Silva, 2019)</p>
 <p align="justify">Nossa segunda análise de persona primária será de Fernanda Siqueira, 17 anos, que busca informações de como realizar a matrícula no CIL2-BSB</p>
 <img alt = "Analise de Tarefas Persona Primária 2" src="../../Analise_Requisitos/Images/Analise_Persona_Primaria_2.jpg" width = "600"/>
 
-_Figura3: Análise de Tarefas Persona Primária 2. Autor: Luis Marques._
+_Figura2: Análise de Tarefas Persona Primária 2. Autores: Luis Marques e Eduarda Servidio._
 
 | Objetivos                                     | Recomendações                                          |
 | --------------------------------------------- | ------------------------------------------------------ |
