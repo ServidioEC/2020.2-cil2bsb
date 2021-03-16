@@ -40,9 +40,9 @@
 | Nome         | Fernanda Siqueira                                                                                                                       |
 | Idade        | 17 anos                                                                                                                                 |
 | Ocupação     | Estudante                                                                                                                               |
-| Objetivo     | Realizar a matricula no cil2bsb                                                                                                         |
-| Tarefas      | Obter informações de como realizar a matricula no cil2bsb                                                                               |
-| Expectativas | espera obter essas informações de forma clara e sucinta                                                                                 |
+| Objetivo     | Realizar a matricula no CIL2-BSB                                                                                                        |
+| Tarefas      | Obter informações de como realizar a matricula no CIL2-BSB                                                                              |
+| Expectativas | Espera obter essas informações de forma clara e sucinta no site do CIL2-BSB                                                             |
 
 <p align="justify">Fernanda é uma estudante do ensino médio da rede pública do distrito federal e sabe da importância de se aprender um outro idioma para a sua melhor colocação no mercado de trabalho. Fernanda então resolve se matricular em uma das unidades do Centro Interescolar de línguas de Brasília, por uma questão de proximidade com a sua residência e com a sua casa, escolhe o CIL2-BSB. E para isto ela resolve entrar no site do CIL2-BSB para ter informações sobre como deve ocorrer a matrícula.</p>
 
