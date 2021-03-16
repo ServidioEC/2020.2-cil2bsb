@@ -6,6 +6,7 @@
 | 15/03/2021 | 0.2    | Descrição da análise GOMS                            | Hérya                               | Eduarda |
 | 15/03/2021 | 0.3    | Objetivos e Análise de Tarefas da Persona Secundária | Eduarda Servidio                    | Hérya   |
 | 16/03/2021 | 0.4    | Adição de analise, e GOMS da persona 2               | Luis Marques                        | Eduarda |
+| 16/03/2021 | 0.5    | Correção Analise de GOMS Persona Primaria 2          | Eduarda Servidio                    | ------- |
 
 ## 1. Definição
 
@@ -92,13 +93,14 @@ Para a análise usaremos os seguintes termos
 
     Goal 0 : Acessar o site do CIL2BSB
         OP : acessar o site http://www.cil2bsb.com.br/ em seu navegador de preferência.
-    Goal 1 : Acessar as opções para alunos
-        OP : Levar o mouse para a aba superior "Alunos"
-        OP : Realizar um clique com mouse para que abra o submenu
-        OP : Acessar alguma opção específica no submenu 
-    Goal 2 : Acessas as informações sobre novas matrículas
-        OP : Rolar a página até o final
-        OP : Clicar com o mouse em Matrículas Novas, disponível ao lado direito da tela
+    Goal 1 : Acessar a opção Matrículas Novas 
+        OP : Primeira Opção: Levar o mouse para a aba superior "Alunos"
+            OP : Realizar um clique com mouse para que abra o submenu
+            OP : Acessar a opção específica no submenu
+        OP : Segunda Opção: Rolar a página até o final (disponível ao lado direito da tela)
+            OP : Acessar a opção específica no submenu
+    Goal 2 : Acessar as informações sobre novas matrículas
+        OP : Clicar com o mouse em Matrículas Novas
 
 ## Referências Bibliográficas
 
