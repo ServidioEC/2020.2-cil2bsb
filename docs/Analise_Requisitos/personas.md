@@ -35,7 +35,7 @@
 
 |              |                                                                                                                                         |
 | ------------ | --------------------------------------------------------------------------------------------------------------------------------------- |
-| Foto         | <img alt= "persona-2" src="../Images/persona_2_17.jpeg" width = "300" /> (Imagem retirada do site: https://thispersondoesnotexist.com/) |
+| Foto         | <img alt= "persona-2" src="../Images/persona_2_17.jpeg" width = "300" />                                                                |
 | Tipo         | Persona primária                                                                                                                        |
 | Nome         | Fernanda Siqueira                                                                                                                       |
 | Idade        | 17 anos                                                                                                                                 |
@@ -50,7 +50,7 @@
 
 |             |                                                                                                                                     |
 | ----------- | ----------------------------------------------------------------------------------------------------------------------------------- |
-| Foto        | <img alt= "persona-3" src="../Images/persona_3.jpg" width = "300" /> (Imagem retirada do site: https://thispersondoesnotexist.com/) |
+| Foto        | <img alt= "persona-3" src="../Images/persona_3.jpg" width = "300" />                                                                |
 | Tipo        | Persona secundária                                                                                                                  |
 | Nome        | Milena Barbosa                                                                                                                      |
 | Idade       | 38 anos                                                                                                                             |
@@ -65,7 +65,7 @@
 
 |             |                                                                                                                                      |
 | ----------- | ------------------------------------------------------------------------------------------------------------------------------------ |
-| Foto        | <img alt= "persona-4" src="../Images/persona-4.jpeg" width = "300" /> (Imagem retirada do site: https://thispersondoesnotexist.com/) |
+| Foto        | <img alt= "persona-4" src="../Images/persona-4.jpeg" width = "300" />                                                                |
 | Tipo        | Anti-Persona                                                                                                                         |
 | Nome        | Cláudio Ferreira Santos                                                                                                              |
 | Idade       | 33 anos                                                                                                                              |
@@ -79,3 +79,4 @@
 ## Referências Bibliográficas
 
 <p align="justify">BARBOSA, Simone et al. "Interação Humano-Computador". </p>
+<p align="justify">Imagens das personas retiradas do site: thispersondoesnotexist.com </p>

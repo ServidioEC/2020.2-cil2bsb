@@ -1,18 +1,19 @@
 ## Histórico de Versões
 
-| Data       | Versão | Descrição                                            | Autores                             | Revisor |
-| ---------- | ------ | ---------------------------------------------------- | ----------------------------------- | ------- |
-| 12/03/2021 | 0.1    | Criação do Documento                                 | Eduarda, Luis Marques, Herya, Pedro | ------- |
-| 15/03/2021 | 0.2    | Descrição da análise GOMS                            | Hérya                               | Eduarda |
-| 15/03/2021 | 0.3    | Objetivos e Análise de Tarefas da Persona Secundária | Eduarda Servidio                    | Hérya   |
-| 16/03/2021 | 0.4    | Adição de analise, e GOMS da persona 2               | Luis Marques                        | Eduarda |
-| 16/03/2021 | 0.5    | Correção: Análise de GOMS e Complementação: Esquema da Análise de Tarefas (Persona Primaria 2)          | Eduarda Servidio                    | ------- |
+| Data       | Versão | Descrição                                            | Autores                                 | Revisor |
+| ---------- | ------ | ---------------------------------------------------- | -----------------------------------     | ------- |
+| 12/03/2021 | 0.1    | Criação do Documento                                 | Eduarda, Luis Marques, Herya, Pedro     | ------- |
+| 15/03/2021 | 0.2    | Descrição da análise GOMS                            | Hérya                                   | Eduarda |
+| 15/03/2021 | 0.3    | Objetivos e Análise de Tarefas da Persona Secundária | Eduarda Servidio                        | Hérya   |
+| 16/03/2021 | 0.4    | Adição de analise, e GOMS da persona 2               | Luis Marques                            | Eduarda |
+| 16/03/2021 | 0.5    | Correção: Análise de GOMS e Complementação: Esquema da Análise de Tarefas (Persona Primaria 2) | Eduarda Servidio | Pedro Haick |
+| 16/03/2021 | 0.6    | Análise de tarefas e GOMS da persona 1               | Pedro Haick                             | ------- |
 
 ## 1. Definição
 
 <p align="justify">"Uma análise de tarefas é utilizada para se ter um entendimento sobre qual é o trabalho dos usuários, como
 eles o realizam e por quê. Nesse tipo de análise, o trabalho é definido em termos dos objetivos que os
-usuários querem ou precisam atingir."(Barbosa e Silva, 2019)</p>
+usuários querem ou precisam atingir." (Barbosa e Silva, 2019)</p>
 
 ## 2. Objetivo
 
@@ -24,9 +25,21 @@ usuários querem ou precisam atingir."(Barbosa e Silva, 2019)</p>
 
 ####3.1.1
 
+<p align="justify">A primeira análise de persona primária será de Ana Júlia Silva, 16 anos, que quer descobrir mais sobre o CIL2-BSB e aprender a utilizar o site.</p>
+<img alt = "Analise de Tarefas Persona Primária 1" src="../../Analise_Requisitos/Images/Analise_Persona_Primaria_1.jpg" width = "600"/>
+
+_Figura1: Análise de Tarefas Persona Primária 1. Autor: Pedro Haick._
+
+| Objetivos                                     | Recomendações                                          |
+| --------------------------------------------- | ------------------------------------------------------ |
+| Acessar o site do CIL2BSB                     | <b>Ação</b>: entrar no site http://www.cil2bsb.com.br/ |
+| Se informar sobre o CIL2BSB                   | <b>Ação</b>: selecionar na aba superior "Quem Somos"   |
+| Visualizar as notícias                        | <b>Ação</b>: selecionar na aba superior "Notícias"     |
+| Entrar em contato                             | <b>Ação</b>: selecionar na aba superior "Fale conosco" |
+
 ####3.1.2 Fernanda Siqueira
 
-<p align="justify">Nossa segunda análise de persona primária será de Fernanda Siqueira, 17 anos, que busca informações de como realizar a matrícula no CIL2-BSB</p>
+<p align="justify">Nossa segunda análise de persona primária será de Fernanda Siqueira, 17 anos, que busca informações de como realizar a matrícula no CIL2-BSB.</p>
 <img alt = "Analise de Tarefas Persona Primária 2" src="../../Analise_Requisitos/Images/Analise_Persona_Primaria_2.jpg" width = "600"/>
 
 _Figura2: Análise de Tarefas Persona Primária 2. Autores: Luis Marques e Eduarda Servidio._
@@ -76,7 +89,7 @@ _Figura3: Análise de Tarefas Persona Secundária. Autor: Eduarda Servidio._
 
 ###4.3.1 Definição CMN-GOMS
 
-<p align="justify">É a proposta original do GOMS. "Há uma hierarquia estrita de objetivos, os operadores são executados estritamente em ordem sequencial, e os métodos são representados numa notação semelhante a um pseudocódigo, que inclui submétodos e condicionais."(Barbosa e Silva, 2019)</p>
+<p align="justify">É a proposta original do GOMS. "Há uma hierarquia estrita de objetivos, os operadores são executados estritamente em ordem sequencial, e os métodos são representados numa notação semelhante a um pseudocódigo, que inclui submétodos e condicionais." (Barbosa e Silva, 2019)</p>
 Será realizada a análise de CMN-GOMS para cada uma das personas primárias apresentadas.
 
 ### 4.4 Análises
@@ -87,9 +100,20 @@ Para a análise usaremos os seguintes termos
     OP : Ações concretas que o Cil2bsb oferece.
     METHOD : Sequência de subobjetivos e operadores para atingir um objetivo.
 
-###4.4.1
+###4.4.1 Ana Júlia Silva
 
-###4.4.2 Fernananda Siqueira
+    Goal 0 : Acessar o site do CIL2BSB
+        OP : Acessar o site http://www.cil2bsb.com.br/ em seu navegador de preferência.
+    Goal 1 : Se informar sobre o CIL2BSB 
+        OP : Passar o mouse sobre a aba "Quem Somos", no menu superior
+            OP : Clicar em um tópico para se informar a respeito
+    Goal 2 : Visualizar as notícias
+        OP : Clicar com o mouse na aba de notícias, no menu superior
+    Goal 3 : Entrar em contato
+        OP : Clicar com o mouse na aba "Fale Conosco", no menu superior
+        OP : Selecionar o melhor meio de contato disponível
+
+###4.4.2 Fernanda Siqueira
 
     Goal 0 : Acessar o site do CIL2BSB
         OP : acessar o site http://www.cil2bsb.com.br/ em seu navegador de preferência.
