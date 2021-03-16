@@ -5,6 +5,7 @@
 | ---------- | ------ | -------------------- | ----------------------------------- | ------- |
 | 12/03/2021 | 0.1    | Criação do Documento | Eduarda, Luis Marques, Herya, Pedro | ------- |
 | 16/03/2021 | 0.2    | Adição da introdução e metodologia | Giovana Dionisio | ------- |
+| 16/03/2021 | 0.3    | Adição de informações sobre a metodologia | Giovana Dionisio | ------- |
 
 ## Introdução 
 <p align="justify"> Perfil de usuário trata de uma descrição detalhada sobre o perfil das pessoas cujo produto pretende apoiar. O seu levantamento é uma atividade interativa onde são levantados dados que auxiliam o entendimento de para quem o produto está sendo construído. </p>
