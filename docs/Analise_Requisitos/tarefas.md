@@ -21,12 +21,14 @@ usuários querem ou precisam atingir."(Barbosa e Silva, 2019)</p>
 
 ###3.1 Personas primárias
 
+####3.1.1
+
 ####3.1.2 Fernanda Siqueira
 
-<p align="justify">Nossa segunda analise será de Fernanda Siqueira, de 17 anos, que busca informações de como realizar a matricula no CIL2-BSB</p>
-<img alt = "Analise de Tarefas Persona 2" src="../../Analise_Requisitos/Images/analise_persona2.png" width = "600"/>
+<p align="justify">Nossa segunda análise será de Fernanda Siqueira, 17 anos, que busca informações de como realizar a matrícula no CIL2-BSB</p>
+<img alt = "Analise de Tarefas Persona Primária 2" src="../../Analise_Requisitos/Images/Analise_de_Tarefa_Persona_Primaria_2.jpg" width = "600"/>
 
-_Figura3: Análise de Tarefas Persona 2. Autor: Luis Marques._
+_Figura3: Análise de Tarefas Persona Primária 2. Autor: Luis Marques._
 
 | Objetivos                                     | Recomendações                                          |
 | --------------------------------------------- | ------------------------------------------------------ |
@@ -94,7 +96,7 @@ Para a análise usaremos os seguintes termos
         OP : Levar o mouse para a aba superior "Alunos"
         OP : Realizar um clique com mouse para que abra o submenu
     Goal 2 : Acessas as informações sobre novas matrículas
-        OP : Clicar com o mouse em Matrículas novas
+        OP : Clicar com o mouse em Matrículas Novas
 
 ## Referências Bibliográficas
 
