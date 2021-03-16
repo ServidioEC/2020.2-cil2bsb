@@ -6,7 +6,8 @@
 | 14/03/2021 | 0.2    | Adição persona 2                          | Luis Marques                        | Pedro Haick  |
 | 15/03/2021 | 0.3    | Adição persona 1                          | Pedro Haick                         | Eduarda S.   |
 | 15/03/2021 | 0.4    | Correções e detalhamento das personas     | Pedro Haick                         | Eduarda S.   |
-| 15/03/2021 | 0.5    | Adição e detalhamento da persona 3        | Eduarda Servidio                    | -----------  |
+| 15/03/2021 | 0.5    | Adição e detalhamento da persona 3        | Eduarda Servidio                    | Hérya |
+| 15/03/2021 | 0.6    |      Adição e detalhamento da anti-persona 1 |        Hérya     | ----- |
 
 ## Introdução
 
@@ -55,6 +56,24 @@
 | Expectativa | Encontrar notícias no site do CIL2BSB                                      |
 
 <p align="justify">Milena Barbosa é professora de língua inglesa no Centro Interescolar de Línguas 02 de Brasília. Para ficar por dentro de todos os acontecimentos em seu trabalho, Milena gosta de ler notícias sobre o CIL2BSB e seus alunos. Para isso, Milena frequentemente acessa o site do CIL2BSB para verificar as atualizações nas notícias. Milena sempre espera encontrar notícias importantes por lá.</p>
+
+
+### Anti-Persona 1:
+
+|             |                                                                            |
+| ----------- | -------------------------------------------------------------------------- |
+| Foto        | <img alt= "persona-4" src="../Images/persona-4.jpeg" width = "300" /> (Imagem retirada do site: https://thispersondoesnotexist.com/) |
+| Tipo        | Anti-Persona                                                        |
+| Nome        | Cláudio Ferreira Santos                                                             |
+| Idade       | 33 anos                                                                    |
+| Ocupação    | Jornalista                                    |
+| Objetivos   | Informar-se sobre a situação sociopolítica do Brasil       |
+| Habilidades |  Fluência em inglês e português                       |
+| Expectativa | Encontrar notícias referente  a situação política e social do Brasil no site do CIL2BSB                                      |
+
+<p align="justify">Cláudio Ferreira dos Santos é um jornalista brasileiro, mas reside na Alemanha há 25 anos. Para manter-se sempre informado dos acontecimentos do Brasil, em especial da capital, ele recorre à sites e portais brasileiros. Assim, o foco de Cláudio é em notícias sociais e políticas, e não informações relacionadas aos cursos do CIL2BSB.</p>
+
+
 
 ## Referências Bibliográficas
 

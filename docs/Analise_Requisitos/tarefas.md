@@ -4,7 +4,7 @@
 | ---------- | ------ | -------------------------------------------------------- | ----------------------------------- | ------- |
 | 12/03/2021 | 0.1    | Criação do Documento                                     | Eduarda, Luis Marques, Herya, Pedro | ------- |
 | 15/03/2021 | 0.2    | Descrição da análise GOMS                                | Hérya                               | Eduarda |
-| 15/03/2021 | 0.3    | Objetivos e Análise de Tarefas da Persona Secundária     | Eduarda Servidio                    | ------- |
+| 15/03/2021 | 0.3    | Objetivos e Análise de Tarefas da Persona Secundária     | Eduarda Servidio                    | Hérya |
 
 ## 1. Definição
 
