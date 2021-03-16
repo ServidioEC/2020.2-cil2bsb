@@ -8,7 +8,7 @@
 | 15/03/2021 | 0.4    | Correções e detalhamento das personas   | Pedro Haick                         | Eduarda S.   |
 | 15/03/2021 | 0.5    | Adição e detalhamento da persona 3      | Eduarda Servidio                    | Hérya        |
 | 15/03/2021 | 0.6    | Adição e detalhamento da anti-persona 1 | Hérya                               | Eduarda S.   |
-| 16/03/2021 | 0.7    | detalhamento da persona 2               | Luis Marques                        | ---          |
+| 16/03/2021 | 0.7    | detalhamento da persona 2               | Luis Marques                        | Eduarda S.   |
 
 ## Introdução
 
