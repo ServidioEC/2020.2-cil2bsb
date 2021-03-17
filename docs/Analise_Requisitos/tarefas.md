@@ -47,7 +47,7 @@ _Figura2: Análise de Tarefas Persona Primária 2. Autores: Luis Marques e Eduar
 | Objetivos                                     | Recomendações                                          |
 | --------------------------------------------- | ------------------------------------------------------ |
 | Acessar o site do CIL2BSB                     | <b>Ação</b>: entrar no site http://www.cil2bsb.com.br/ |
-| Acessar as opções para alunos                 | <b>Ação</b>: selecionar na aba superior "Alunos"       |
+| Acessar as opções para alunos                 | <b>Ação</b>: selecionar na aba superior "Alunos" ou rolar a página Home até o final e selecionar Matrículas Novas a direita da tela       |
 | Acessar as informações sobre novas matrículas | <b>Ação</b>: Selecionar na Matrículas novas            |
 
 ###3.2 Persona Secundária
