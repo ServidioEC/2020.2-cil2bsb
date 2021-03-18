@@ -1,13 +1,13 @@
 ## Histórico de Versões
 
-| Data       | Versão | Descrição                                            | Autores                                 | Revisor |
-| ---------- | ------ | ---------------------------------------------------- | -----------------------------------     | ------- |
-| 12/03/2021 | 0.1    | Criação do Documento                                 | Eduarda, Luis Marques, Herya, Pedro     | ------- |
-| 15/03/2021 | 0.2    | Descrição da análise GOMS                            | Hérya                                   | Eduarda |
-| 15/03/2021 | 0.3    | Objetivos e Análise de Tarefas da Persona Secundária | Eduarda Servidio                        | Hérya   |
-| 16/03/2021 | 0.4    | Adição de analise, e GOMS da persona 2               | Luis Marques                            | Eduarda |
-| 16/03/2021 | 0.5    | Correção: Análise de GOMS e Complementação: Esquema da Análise de Tarefas (Persona Primaria 2) | Eduarda Servidio | Pedro Haick |
-| 16/03/2021 | 0.6    | Análise de tarefas e GOMS da persona 1               | Pedro Haick                             | ------- |
+| Data       | Versão | Descrição                                            | Autores                                                    | Revisor          |
+| ---------- | ------ | ---------------------------------------------------- | ---------------------------------------------------------- | ---------------- |
+| 12/03/2021 | 0.1    | Criação do Documento                                 | Eduarda, Luis Gstavo, Herya, Pedro                         | ---------------- |
+| 15/03/2021 | 0.2    | Descrição da análise GOMS                            | Hérya Rodrigues                                            | Eduarda Servidio |
+| 15/03/2021 | 0.3    | Objetivos e Análise de Tarefas da Persona Secundária | Eduarda Servidio                                           | Hérya Rodrigues  |
+| 16/03/2021 | 0.4    | Adição de analise, e GOMS da persona 2               | Luis Marques                                               | Eduarda Servidio |
+| 16/03/2021 | 0.5    | Correção: Análise de GOMS e Complementação: Esquema da Análise de Tarefas (Persona Primaria 2) | Eduarda Servidio | Pedro Haick      |
+| 16/03/2021 | 0.6    | Análise de tarefas e GOMS da persona 1               | Pedro Haick                                                | Hérya Rodrigues  |
 
 ## 1. Definição
 
