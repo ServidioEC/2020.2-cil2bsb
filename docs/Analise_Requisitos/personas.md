@@ -1,14 +1,14 @@
 ## Histórico de Versões
 
-| Data       | Versão | Descrição                               | Autores                             | Revisor      |
-| ---------- | ------ | --------------------------------------- | ----------------------------------- | ------------ |
-| 12/03/2021 | 0.1    | Criação do Documento                    | Eduarda, Luis Marques, Herya, Pedro | Luis Marques |
-| 14/03/2021 | 0.2    | Adição persona 2                        | Luis Marques                        | Pedro Haick  |
-| 15/03/2021 | 0.3    | Adição persona 1                        | Pedro Haick                         | Eduarda S.   |
-| 15/03/2021 | 0.4    | Correções e detalhamento das personas   | Pedro Haick                         | Eduarda S.   |
-| 15/03/2021 | 0.5    | Adição e detalhamento da persona 3      | Eduarda Servidio                    | Hérya        |
-| 15/03/2021 | 0.6    | Adição e detalhamento da anti-persona 1 | Hérya                               | Eduarda S.   |
-| 16/03/2021 | 0.7    | detalhamento da persona 2               | Luis Marques                        | Eduarda S.   |
+| Data       | Versão | Descrição                               | Autores                             | Revisor            |
+| ---------- | ------ | --------------------------------------- | ----------------------------------- | ------------------ |
+| 12/03/2021 | 0.1    | Criação do Documento                    | Eduarda, Luis Gustavo, Herya, Pedro | Luis Gustavo       |
+| 14/03/2021 | 0.2    | Adição persona 2                        | Luis Gustavo                        | Pedro Haick        |
+| 15/03/2021 | 0.3    | Adição persona 1                        | Pedro Haick                         | Eduarda Servidio   |
+| 15/03/2021 | 0.4    | Correções e detalhamento das personas   | Pedro Haick                         | Eduarda Servidio   |
+| 15/03/2021 | 0.5    | Adição e detalhamento da persona 3      | Eduarda Servidio                    | Hérya Rodrigues    |
+| 15/03/2021 | 0.6    | Adição e detalhamento da anti-persona 1 | Hérya Rodrigues                     | Eduarda Servidio   |
+| 16/03/2021 | 0.7    | detalhamento da persona 2               | Luis Gustavo                        | Eduarda Servidio   |
 
 ## Introdução
 
