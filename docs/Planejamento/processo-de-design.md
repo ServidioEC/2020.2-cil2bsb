@@ -2,11 +2,11 @@
 
 ## Histórico de Versões
 
-| Data S     | Versão | Descrição                                   | Autores                        | Revisor |
-| ---------- | ------ | ------------------------------------------- | ------------------------------ | ------- |
-| 02/03/2021 | 0.1    | Criação da Aba Processo de Design           | Giovana, Gabriela, Herya, Luis | Eduarda |
-| 02/03/2021 | 0.2    | Correção de erros                           | Eduarda Servidio               | ------- |
-| 02/03/2021 | 0.3    | Melhora do visual (justificação dos textos) | Eduarda Servidio               | ------- |
+| Data S     | Versão | Descrição                                   | Autores                        | Revisor          |
+| ---------- | ------ | ------------------------------------------- | ------------------------------ | ---------------- |
+| 02/03/2021 | 0.1    | Criação da Aba Processo de Design           | Giovana, Gabriela, Herya, Luis | Eduarda Servidio |
+| 02/03/2021 | 0.2    | Correção de erros                           | Eduarda Servidio               | Giovana Dionisio |
+| 02/03/2021 | 0.3    | Melhora do visual (justificação dos textos) | Eduarda Servidio               | Giovana Dionisio |
 
 ## Ciclo de Mayhew
 
