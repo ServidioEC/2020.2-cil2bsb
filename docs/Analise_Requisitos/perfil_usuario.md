@@ -7,6 +7,7 @@
 | 16/03/2021 | 0.2    | Adição da introdução e metodologia | Giovana Dionisio | Gabriela Pivetta |
 | 16/03/2021 | 0.3    | Adição de informações sobre a metodologia | Giovana Dionisio | Gabriela Pivetta |
 | 16/03/2021 | 0.4    | Adição dos Resultados e da Análise | Gabriela Pivetta | Giovana Dionisio |
+| 18/03/2021 | 0.5    | Adição do questionário | Giovana Dionisio |  --------- |
 
 ## Introdução 
 <p align="justify"> Perfil de usuário trata de uma descrição detalhada sobre o perfil das pessoas cujo produto pretende apoiar. O seu levantamento é uma atividade interativa onde são levantados dados que auxiliam o entendimento de para quem o produto está sendo construído. </p>
@@ -14,6 +15,20 @@
 
 ## Metodologia
 <p align="justify"> Utilizamos um questionário elaborado através da plataforma do Google Forms e divulgado, através das redes sociais, entre usuários e não usuários do site CIL 2 BSB para coletarmos as informações sobre seus perfis. Foram feitas perguntas relacionadas às características básicas de cada um, como gênero, idade e afinidade com tecnologia. Além disso, questionamos especificamente os usuários do CIL2 BSB sobre as suas experiências com o site. </p>
+
+## Questionário 
+O questionário consiste nas seguintes perguntas:
+### Seção 1 (Todos os usuários)
+<img alt= "form-question" src= https://i.ibb.co/xfZ509b/Screenshot-20210318-184607.png width = "400">
+<img alt= "form-question" src= https://i.ibb.co/c1xDyq8/Screenshot-20210318-184627.png width = "400">
+<img alt= "form-question" src= https://i.ibb.co/p4MM8qr/Screenshot-20210318-184636.png width = "400">
+
+### Seção 2 (Usuários vinculados ao CIL2)
+<img alt= "form-question" src= https://i.ibb.co/B4ywLdK/Screenshot-20210318-184729.png width = "400">
+
+### Seção 3 (Usuários vinculados ao CIL2 que já acessaram o site)
+<img alt= "form-question" src= https://i.ibb.co/1MFs9Vy/Screenshot-20210318-184753.png width = "400">
+<img alt= "form-question" src= https://i.ibb.co/ZJxp3St/Screenshot-20210318-184759.png width = "400">
 
 ## Resultados
 
@@ -54,5 +69,5 @@ Podemos concluir que a maioria das pessoas consideram importante a estética e a
 - Emissão de documentos;
 - Publicações com feitos recentes de alunos.
 
-## Referências Bibliográficas
+## Bibliografia
 BARBOSA, Simone Diniz Junqueira; DA SILVA, Bruno Santana. **Interação humano-computador**. Elsevier, 2010. Cap. 6. p. 174-175: Organização do Espaço de Problema. 
