@@ -2,7 +2,7 @@
 
 | Data       | Versão | Descrição                                            | Autores                                                    | Revisor          |
 | ---------- | ------ | ---------------------------------------------------- | ---------------------------------------------------------- | ---------------- |
-| 12/03/2021 | 0.1    | Criação do Documento                                 | Eduarda, Luis Gstavo, Herya, Pedro                         | ---------------- |
+| 12/03/2021 | 0.1    | Criação do Documento                                 | Eduarda, Luis Gustavo, Herya, Pedro                         | Gabriela Pivetta |
 | 15/03/2021 | 0.2    | Descrição da análise GOMS                            | Hérya Rodrigues                                            | Eduarda Servidio |
 | 15/03/2021 | 0.3    | Objetivos e Análise de Tarefas da Persona Secundária | Eduarda Servidio                                           | Hérya Rodrigues  |
 | 16/03/2021 | 0.4    | Adição de analise, e GOMS da persona 2               | Luis Marques                                               | Eduarda Servidio |

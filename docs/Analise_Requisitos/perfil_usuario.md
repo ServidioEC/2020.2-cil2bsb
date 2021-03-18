@@ -3,7 +3,7 @@
 ## Histórico de Versões
 | Data       | Versão | Descrição            | Autores                             | Revisor |
 | ---------- | ------ | -------------------- | ----------------------------------- | ------- |
-| 12/03/2021 | 0.1    | Criação do Documento | Eduarda, Luis Marques, Herya, Pedro | ------- |
+| 12/03/2021 | 0.1    | Criação do Documento | Eduarda, Luis Marques, Herya, Pedro | Gabriela Pivetta |
 | 16/03/2021 | 0.2    | Adição da introdução e metodologia | Giovana Dionisio | Gabriela Pivetta |
 | 16/03/2021 | 0.3    | Adição de informações sobre a metodologia | Giovana Dionisio | Gabriela Pivetta |
 | 16/03/2021 | 0.4    | Adição dos Resultados e da Análise | Gabriela Pivetta | Giovana Dionisio |
