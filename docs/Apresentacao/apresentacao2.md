@@ -4,7 +4,7 @@
 
 | Data       | Versão | Descrição                             | Autores               | Revisor |
 | ---------- | ------ | ------------------------------------- | ----------------------| ------- |
-| 18/03/2021 | 0.1    | Criação do Documento                  | Eduarda Servidio      | Luis G. |
+| 18/03/2021 | 0.1    | Criação do Documento e Adição do link e slides                 | Eduarda Servidio      | Luis G. |
 | 18/03/2021 | 0.2    | Correção do Link da Apresentação      | Luis Gustavo          | Eduarda |
 
 ## Link da apresentação
