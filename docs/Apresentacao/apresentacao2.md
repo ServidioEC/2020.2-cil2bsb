@@ -9,9 +9,7 @@
 
 ## Link da apresentação
 
-<iframe width="820" height="500" src="https://www.youtube.com/watch?v=whIFrk4upNQ" frameborder="0"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-    allowfullscreen></iframe>
+<iframe width="820" height="500" src="https://www.youtube.com/embed/whIFrk4upNQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Slides da apresentação
 Slides criados na ferramenta Photoshop e transferidos para Apresentações Online do Google
