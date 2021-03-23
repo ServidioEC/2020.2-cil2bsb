@@ -1,11 +1,11 @@
 #Guia de Estilo
 
 ## Histórico de Versões
-| Data       | Versão | Descrição                                                       | Autores          | Revisor      |
-| ---------- | ------ | --------------------------------------------------------------- | -----------------| ------------ |
-| 23/03/2021 | 0.1    | Criação do Documento                                            | Eduarda Servidio | ------------ |
-| 23/03/2021 | 0.2    | Adição do tópico e subtópicos referentes a Introdução           | Eduarda Servidio | ------------ |
-| 23/03/2021 | 0.3    | Adição do tópico e subtópico referentes a Resultados de Análise | Eduarda Servidio | ------------ |
+| Data       | Versão | Descrição                                                       | Autores          | Revisor          |
+| ---------- | ------ | --------------------------------------------------------------- | -----------------| ---------------- |
+| 23/03/2021 | 0.1    | Criação do Documento                                            | Eduarda Servidio | ---------------- |
+| 23/03/2021 | 0.2    | Adição do tópico e subtópicos referentes a Introdução           | Eduarda Servidio | Giovana Dionisio |
+| 23/03/2021 | 0.3    | Adição do tópico e subtópico referentes a Resultados de Análise | Eduarda Servidio | Giovana Dionisio |
 
 ##1. Introdução
 <p align="justify">Guia de Estilo trata-se de um registro das principais decisões de design tomadas,
