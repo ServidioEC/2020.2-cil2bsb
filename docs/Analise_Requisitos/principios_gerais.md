@@ -1,9 +1,9 @@
 # Princípios Gerais de Projeto
 
 ## Histórico de Versões
-| Data       | Versão | Descrição                               | Autores           | Revisor  |
-| ---------- | ------ | --------------------------------------- | ----------------- | ---------|
-| 22/03/2021 | 0.1    | Criação e elaboração do documento       | Giovana Dionisio  | -------- |
+| Data       | Versão | Descrição                               | Autores           | Revisor          |
+| ---------- | ------ | --------------------------------------- | ----------------- | -----------------|
+| 22/03/2021 | 0.1    | Criação e elaboração do documento       | Giovana Dionisio  | Eduarda Servidio |
 
 ## Introdução 
 <p align="justify"> Dentro da literatura de IHC, princípios e diretrizes representam objetivos e regras gerais que são comumente aplicados na construção da interface de usuário, auxiliando o processo de design. Geralmente, os princípios e diretrizes propostos giram em torno de tópicos específicos que, em conjunto, compõem os Princípios Gerais de Projeto. Estes tópicos são divididos em: </p>
