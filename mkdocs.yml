@@ -22,9 +22,14 @@ nav:
           - Planejamento: 'Planejamento/Planejamento.md'
           - Processo de Design: 'Planejamento/processo-de-design.md'
     - Análise de requisitos:
-          - Perfil do usuário: 'Analise_Requisitos/perfil_usuario.md'
-          - Personas: 'Analise_Requisitos/personas.md'
-          - Análise de tarefas: 'Analise_Requisitos/tarefas.md'
+          - Análise do Perfil de Usuário:
+            - Análise de tarefas: 'Analise_Requisitos/tarefas.md'
+            - Perfil do usuário: 'Analise_Requisitos/perfil_usuario.md'
+            - Personas: 'Analise_Requisitos/personas.md'
           - Princípios Gerais de Projeto: 'Analise_Requisitos/principios_gerais.md'
+          - Características da Plataforma: ''
+          - Metas de Usabilidade: ''
+          - Guia de Estilo: 'Analise_Requisitos/guia_estilo.md'
+
 
 docs_dir: docs/
