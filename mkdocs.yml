@@ -25,5 +25,6 @@ nav:
           - Perfil do usuário: 'Analise_Requisitos/perfil_usuario.md'
           - Personas: 'Analise_Requisitos/personas.md'
           - Análise de tarefas: 'Analise_Requisitos/tarefas.md'
+          - Princípios Gerais de Projeto: 'Analise_Requisitos/principios_gerais.md'
 
 docs_dir: docs/
