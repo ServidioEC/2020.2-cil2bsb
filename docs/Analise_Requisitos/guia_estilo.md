@@ -6,6 +6,7 @@
 | 23/03/2021 | 0.1    | Criação do Documento                                            | Eduarda Servidio | ---------------- |
 | 23/03/2021 | 0.2    | Adição do tópico e subtópicos referentes a Introdução           | Eduarda Servidio | Giovana Dionisio |
 | 23/03/2021 | 0.3    | Adição do tópico e subtópico referentes a Resultados de Análise | Eduarda Servidio | Giovana Dionisio |
+| 24/03/2021 | 0.4    | Adição dos tópicos e subtópicos referentes a Elementos de Interface e Estilos de Interação | Hérya Rodrigues |---------------- |
 
 ##1. Introdução
 <p align="justify">Guia de Estilo trata-se de um registro das principais decisões de design tomadas,
@@ -24,7 +25,7 @@ ou versões futuras do produto.</p>
 <p align="justify"> A partir disso, criaremos um Guia de Estilo com a função de registrar as
 decisões de design relacionadas a implementação do site CIL2-BSB.</p>
 
-### 1.2 Organização e conteúdo do Guia de Estilo
+###1.2 Organização e conteúdo do Guia de Estilo
 <p align="justify">O Guia de Estilo será baseado na estrutura proposta por Marcus (1991) e Mayhew (1999).</p>
 Segue a estrutura detalhada:
 ####1) Introdução:
@@ -95,7 +96,91 @@ _Figura3: Site do Cil2-BSB. Disponível em: http://www.cil2bsb.com.br/_
 
 _Figura4: Aba Superior do site do Cil2-BSB. Disponível em: http://www.cil2bsb.com.br/_
 
+
+## 3.Elementos de interface
+
+### 3.1 Disposição espacial e grid
+<p align="justify"> A disposição espacial atual do site é simples, mas a forma como o grid está disposto faz com que alguns elementos se confundam ou se sobreponham.
+Na figura 3 do subtópico acima  - "Descrição do ambiente de trabalho do usuário" -  pode-se observar que títulos de diferentes notícias estão sobrepostos e que algumas notícias chegam a se repetir até três vezes na página inicial, mas em diferentes partes do grid.</p>
+
+Segue abaixo o grid atual para a página inicial e diferentes janelas:
+
+<img alt = "Grid página inicial" src="../Images_Guia_Estilo/grid-homepage.jpg" width = "600"/>
+
+_Figura 5: Grid da página inicial_
+
+<img alt = "Grid Notícias" src="../Images_Guia_Estilo/grid-noticias.png" width = "600"/>
+
+_Figura 6: Grid da janela de notícias_
+
+<img alt = "Grid das demais janelas" src="../Images_Guia_Estilo/grid-janelas.png" width = "600"/>
+
+_Figura 7: Grid das demais janelas_
+
+
+### 3.2 Janelas
+<p align="justify">Além da página inicial, há 16 janelas funcionais: CIL2, Equipe Gestora, Conselho Escolar, Secretaria do CIL 02 de Brasília, APAAM, Avaliação, Regimento Interno – CIL 2, Deveres do Aluno, Matrículas Novas, Renovação de Matrícula, Trancamento de Matrícula, Notícias, Banco do Livro, Cine Cil, Monitoria e Reforço Escolar e Fale Conosco. A funcionalidade comum a todas é a visualização de informações e notícias.</p>
+<p align="justify">No entanto, o menu principal - localizado na parte superior do site - redireciona o usuário a algumas janelas vazias, como a janela de Professores (Figura 8) e a do DELE (Figura 9).</p>
+
+<img alt = "Janela Professores" src="../Images_Guia_Estilo/professores.png" width = "600"/>
+
+_Figura 8: Janela "Professores" sem informações. Disponível em: http://www.cil2bsb.com.br/quem-somos/professores/_
+
+<img alt = "Janela DELE" src="../Images_Guia_Estilo/DELE.png" width = "600"/>
+
+_Figura 9: Janela "DELE" sem informações. Disponível em: http://www.cil2bsb.com.br/dele/_
+
+
+### 3.3 Tipografia
+As principais fontes utilizadas são Arial, Helvetica e Tahoma.
+<img alt = "Fonte Arial" src="../Images_Guia_Estilo/fonteArial.png" width = "600"/>
+
+_Figura 10: Exemplos de utilização da fonte Arial_
+
+<img alt = "Fonte Helvetica" src="../Images_Guia_Estilo/fonteHelvetica.png" width = "600"/>
+
+_Figura 11: Exemplos de utilização da fonte Helvetica_
+
+<img alt = "Fonte Tahoma" src="../Images_Guia_Estilo/fonteTahoma.png" width = "600"/>
+
+_Figura 12: Exemplos de utilização da fonte Tahoma_
+
+
+### 3.4 Símbolos não tipográficos
+<p align="justify">O site apresenta os seguintes símbolos não tipográficos:</p>
+
+<img alt = "Símbolos não tipográficos" src="../Images_Guia_Estilo/nao-tipograficos.png" />
+
+_Figura 13: Símbolos não tipográficos encontrados no site do CIL2BSB_
+### 3.5 Cores
+#### 3.5.1 Cores do logo
+
+<img alt = "Cores do logo" src="../Images_Guia_Estilo/cores-logo.jpeg" />
+
+_Figura 14: Cores do logo do CIL2BSB_
+
+#### 3.5.2 Cores principais
+<img alt = "Cores principais" src="../Images_Guia_Estilo/cores-principais.jpeg" />
+
+_Figura 15: Principais cores encontradas no site do CIL2BSB_
+
+#### 3.5.1 Cores secundárias
+
+<img alt = "Cores secundárias" src="../Images_Guia_Estilo/cores-secundarias.jpeg" />
+
+_Figura 16: Cores secundárias encontradas no site do CIL2BSB_
+
+## 4.Elementos de interação
+
+### 4.1 Estilos de interação
+<p align="justify">No site do CIL2BSB é encontrado o WIMP(Windows, Icons, Menus, and Pointers), que consiste na utilização de janelas, ícones, menus e ações com o mouse. Dentre estes, o menu é o mais utilizado, de forma a possibilitar a navegação do usuário.</p>
+
+### 4.2 Aceleradores (teclas de atalho)
+Durante a utilização do siste, não foram econtrados aceleradores de nenhum tipo.
+
 ## Referências Bibliográficas
 
 <p align="justify">Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021)
-Interação Humano-Computador e Experiência do usuário. Autopublicação.</p>
+Interação Humano-Computador e Experiência do usuário. Autopublicação.
+</p>
+Os diagramas do tópicos Elementos de Interface e Estilos de Interação são de elaboração própria e foram criadas utilizando <a href="https://app.diagrams.net/" target="_top">draw.io</a> e <a href="https://color.adobe.com/" target="_top">Adobe Color</a>. 
