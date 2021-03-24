@@ -24,7 +24,7 @@ ou versões futuras do produto.</p>
 <p align="justify"> A partir disso, criaremos um Guia de Estilo com a função de registrar as
 decisões de design relacionadas a implementação do site CIL2-BSB.</p>
 
-###1.2 Organização e conteúdo do Guia de Estilo
+### 1.2 Organização e conteúdo do Guia de Estilo
 <p align="justify">O Guia de Estilo será baseado na estrutura proposta por Marcus (1991) e Mayhew (1999).</p>
 Segue a estrutura detalhada:
 ####1) Introdução:
