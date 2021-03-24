@@ -171,7 +171,7 @@ _Figura 15: Principais cores encontradas no site do CIL2BSB_
 _Figura 16: Cores secundárias encontradas no site do CIL2BSB_
 
 ### 3.6 Animações
-<p align="justify">O site apresenta uma animação, na Página Home na seção das Notícias, das principais e atuais notícias presentes no site.</p>
+<p align="justify">O site do CIL2BSB apresenta uma animação, na Página Home na seção das Notícias, das principais e atuais notícias presentes no site.</p>
 
 ## 4.Elementos de interação
 
