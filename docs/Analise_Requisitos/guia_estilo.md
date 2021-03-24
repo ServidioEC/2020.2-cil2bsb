@@ -176,7 +176,7 @@ _Figura 16: Cores secundárias encontradas no site do CIL2BSB_
 <p align="justify">No site do CIL2BSB é encontrado o WIMP(Windows, Icons, Menus, and Pointers), que consiste na utilização de janelas, ícones, menus e ações com o mouse. Dentre estes, o menu é o mais utilizado, de forma a possibilitar a navegação do usuário.</p>
 
 ### 4.2 Aceleradores (teclas de atalho)
-Durante a utilização do siste, não foram econtrados aceleradores de nenhum tipo.
+Durante a utilização do site, não foram encontrados aceleradores de nenhum tipo.
 
 ## Referências Bibliográficas
 
