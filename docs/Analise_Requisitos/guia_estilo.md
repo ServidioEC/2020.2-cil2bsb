@@ -6,7 +6,7 @@
 | 23/03/2021 | 0.1    | Criação do Documento                                            | Eduarda Servidio | ---------------- |
 | 23/03/2021 | 0.2    | Adição do tópico e subtópicos referentes a Introdução           | Eduarda Servidio | Giovana Dionisio |
 | 23/03/2021 | 0.3    | Adição do tópico e subtópico referentes a Resultados de Análise | Eduarda Servidio | Giovana Dionisio |
-| 24/03/2021 | 0.4    | Adição dos tópicos e subtópicos referentes a Elementos de Interface e Estilos de Interação | Hérya Rodrigues |---------------- |
+| 24/03/2021 | 0.4    | Adição dos tópicos e subtópicos referentes a Elementos de Interface e Estilos de Interação | Hérya Rodrigues |Eduarda Servidio |
 
 ##1. Introdução
 <p align="justify">Guia de Estilo trata-se de um registro das principais decisões de design tomadas,
@@ -170,12 +170,18 @@ _Figura 15: Principais cores encontradas no site do CIL2BSB_
 
 _Figura 16: Cores secundárias encontradas no site do CIL2BSB_
 
+#### 3.6 Animações
+<p align="justify">O site apresenta uma animação, na Página Home na seção das Notícias, das principais e atuais notícias presentes no site.</p>
+
 ## 4.Elementos de interação
 
 ### 4.1 Estilos de interação
 <p align="justify">No site do CIL2BSB é encontrado o WIMP(Windows, Icons, Menus, and Pointers), que consiste na utilização de janelas, ícones, menus e ações com o mouse. Dentre estes, o menu é o mais utilizado, de forma a possibilitar a navegação do usuário.</p>
 
-### 4.2 Aceleradores (teclas de atalho)
+### 4.2 Seleção de um Estilo
+<p align="justify">O estilo predominante no site é o de menus. Diante disso, o usuário procura o que deseja no menu e tenta realizar a funcionalidade.</p>
+
+### 4.3 Aceleradores (teclas de atalho)
 Durante a utilização do site, não foram encontrados aceleradores de nenhum tipo.
 
 ## Referências Bibliográficas
