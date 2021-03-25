@@ -205,7 +205,7 @@ Durante a utilização do site, não foram encontrados aceleradores de nenhum ti
 
 ### 5.1 Preenchimento de campos
 
-<p aling="justify">O sistema não possui campo a serem preenchidos.</p>
+<p aling="justify">O sistema não possui campos a serem preenchidos.</p>
  
 ### 5.2 Seleção
  
@@ -213,7 +213,7 @@ Durante a utilização do site, não foram encontrados aceleradores de nenhum ti
  
 ### 5.3 Ativação
  
-<p aling="justify">O sistema não possui ações que necessitem de ativação por parte do usuário</p>
+<p aling="justify">O sistema não possui ações que necessitem de ativação por parte do usuário.</p>
  
 ## 6. Vocabulário e padrões
  
@@ -223,15 +223,15 @@ Durante a utilização do site, não foram encontrados aceleradores de nenhum ti
  
 ### 6.2 Tipos de tela
  
-<p aling="justify">O site em todas as telas fazem uso de uma barra superior(top bar) e uma barra inferior(footer).</p>
+<p aling="justify">O site em todas as telas fazem uso de uma barra superior (top bar) e uma barra inferior (footer).</p>
 
 <img alt = "Cores secundárias" src="../Images_Guia_Estilo/cil2_head.png" width = "600"/>
 
-_Figura 17: top bar site do CIL2BSB_
+_Figura 17: top bar site do CIL2BSB. Disponível em: http://www.cil2bsb.com.br_
 
 <img alt = "Cores secundárias" src="../Images_Guia_Estilo/cil2_rod.png" width = "600"/>
 
-_Figura 18: footer site do CIL2BSB_
+_Figura 18: footer site do CIL2BSB. Disponível em: http://www.cil2bsb.com.br_
 
 ### 6.3 Sequências de diálogos
 
