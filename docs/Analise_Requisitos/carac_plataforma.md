@@ -2,15 +2,16 @@
 | Data       | Versão | Descrição                            | Autores          | Revisor   |
 | ---------- | ------ | ------------------------------------ | -----------------| --------- |
 | 23/03/2021 | 0.1    | Criação do Documento                 | Gabriela Pivetta | --------- |
-| 23/03/2021 | 0.2    | Elaboração do Documento              | Gabriela Pivetta | --------- |
-| 25/03/2021 | 0.3    | Aprofundamento dos tópicos abordados | Gabriela Pivetta | --------- |
-| 25/03/2021 | 0.4    | Adição das Características Negativas | Gabriela Pivetta | --------- |
+| 23/03/2021 | 0.2    | Elaboração do Documento              | Gabriela Pivetta | Eduarda Servidio |
+| 25/03/2021 | 0.3    | Aprofundamento dos tópicos abordados | Gabriela Pivetta | Eduarda Servidio |
+| 25/03/2021 | 0.4    | Adição das Características Negativas | Gabriela Pivetta | Eduarda Servidio |
 
 ## Introdução 
 
 Tendo como base o ciclo de vida de Mayhew, pode-se encontrar dentro da primeira fase, análise de requisitos, as características da plataforma. Nessa etapa serão examinados os meios por onde o sistema pode ser acessado e seus comportamentos.
 
 <img alt= "mayhew" src= ../Images_Carac_Plataforma/mayhew-parte1.jpeg  width = "500">
+_Figura1: Análise de Requisitos do Ciclo de Mayhew. Fonte: BARBOSA, Simone et al. "Interação Humano-Computador". Capítulo 6, p 88._
 
 ## Objetivo
 
@@ -18,7 +19,7 @@ Este documento tem como objetivo apresentar características da plataforma em qu
 
 ## Compatibilidade
 
-O sistema, como é atualmente, dependende de uma conexão com a internet e funciona em diversos navegadores, como Google Chrome, Microsoft Edge, Internet Explorer e Mozilla Firefox, além do Safari para dispositivos IOS. 
+O sistema, como é atualmente, dependente de uma conexão com a internet e funciona em diversos navegadores, como Google Chrome, Microsoft Edge, Internet Explorer e Mozilla Firefox, além do Safari para dispositivos IOS. 
 
 <img alt= "navegadores" src= ../Images_Carac_Plataforma/navegadores.jpg  width = "300">
 
