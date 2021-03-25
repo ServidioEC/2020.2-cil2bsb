@@ -19,7 +19,7 @@ usuários querem ou precisam atingir." (Barbosa e Silva, 2019)</p>
 
 <p align="justify">A análise terá como foco melhorar as funcionalidades do site CIL2BSB, bem como sua estética. Assim sendo, faremos uma análise a partir de 3 personas para entendermos melhor sobre o uso do site, bem como obter maiores informações.</p>
 
-## 3. Análise Hierárquica de Tarefas
+## 3. Análise Hierárquica de Tarefas: HTA
 
 ###3.1 Personas primárias
 
