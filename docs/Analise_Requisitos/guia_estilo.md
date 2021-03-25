@@ -8,7 +8,7 @@
 | 23/03/2021 | 0.2    | Adição do tópico e subtópicos referentes a Introdução                                      | Eduarda Servidio | Giovana Dionisio |
 | 23/03/2021 | 0.3    | Adição do tópico e subtópico referentes a Resultados de Análise                            | Eduarda Servidio | Giovana Dionisio |
 | 24/03/2021 | 0.4    | Adição dos tópicos e subtópicos referentes a Elementos de Interface e Estilos de Interação | Hérya Rodrigues  | Eduarda Servidio |
-| 24/03/2021 | 0.5    | Adição dos tópicos 5 e 6                                                                   | Luis Marques     | ---              |
+| 24/03/2021 | 0.5    | Adição dos tópicos 5 e 6                                                                   | Luis Marques     | Eduarda Servidio |
 
 ##1. Introdução
 
