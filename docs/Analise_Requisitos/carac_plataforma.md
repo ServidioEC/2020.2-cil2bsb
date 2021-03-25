@@ -1,23 +1,36 @@
 ## Histórico de Versões
-| Data       | Versão | Descrição                         | Autores          | Revisor   |
-| ---------- | ------ | --------------------------------- | -----------------| --------- |
-| 23/03/2021 | 0.1    | Criação do Documento              | Gabriela Pivetta | --------- |
-| 23/03/2021 | 0.2    | Elaboração do Documento           | Gabriela Pivetta | --------- |
+| Data       | Versão | Descrição                            | Autores          | Revisor   |
+| ---------- | ------ | ------------------------------------ | -----------------| --------- |
+| 23/03/2021 | 0.1    | Criação do Documento                 | Gabriela Pivetta | --------- |
+| 23/03/2021 | 0.2    | Elaboração do Documento              | Gabriela Pivetta | --------- |
+| 25/03/2021 | 0.3    | Aprofundamento dos tópicos abordados | Gabriela Pivetta | --------- |
+| 25/03/2021 | 0.4    | Adição das Características Negativas | Gabriela Pivetta | --------- |
 
 ## Introdução 
 
-Este documento tem como objetivo apresentar características da plataforma em que o sistema / site do CIL 2 BSB funciona. A partir daí será possível produzir um novo design tendo essas características como base.
+Tendo como base o ciclo de vida de Mayhew, pode-se encontrar dentro da primeira fase, análise de requisitos, as características da plataforma. Nessa etapa serão examinados os meios por onde o sistema pode ser acessado e seus comportamentos.
 
-## Características da Plataforma
+<img alt= "mayhew" src= ../Images_Carac_Plataforma/mayhew-parte1.jpeg  width = "500">
+
+## Objetivo
+
+Este documento tem como objetivo apresentar características da plataforma em que o sistema / site do CIL 2 BSB funciona. A partir daí é possível produzir um novo design tendo essas características como base e assim melhor atender as necessidades dos usuários.
+
+## Compatibilidade
 
 O sistema, como é atualmente, dependende de uma conexão com a internet e funciona em diversos navegadores, como Google Chrome, Microsoft Edge, Internet Explorer e Mozilla Firefox, além do Safari para dispositivos IOS. 
 
-O site não apresenta responsividade, foi testado em aparelhos mobile dos tipos Android e IOS e em ambos apresenta o layout idêntico ao da versão desktop.
+<img alt= "navegadores" src= ../Images_Carac_Plataforma/navegadores.jpg  width = "300">
 
-- Exemplificação da interface estática do sistema quando operado em aparelhos móveis.
+## Características Negativas
 
-    <kbd><img alt= "mobile" src= ../Images/mobile.png  width = "500"></kbd> 
-
+| Imagem     | Título | Descrição                                                              | 
+| ---------- | ------ | ---------------------------------------------------------------------- | 
+| <img alt= "imagens_sobrepostas" src= ../Images_Carac_Plataforma/imagens_sobrepostas.png  width = "500"> | Imagens Sobrepostas | Uma das Notícias disponibilizadas cobre imagens que compõem o layout do site. |
+| <kbd><img alt= "mobile" src= ../Images_Carac_Plataforma/mobile.png  width = "200"></kbd> | Responsividade | O site quando aberto em uma plataforma mobile apresenta o layout idêntico ao da versão desktop. Foi testado em aparelhos mobile dos tipos Android e IOS. | 
+| <img alt= "textos" src= ../Images_Carac_Plataforma/textos_sobrepostos.png  width = "500"> | Textos Sobrepostos | Na tela inicial alguns textos se sobrepoẽm na área de notícias. |
+| <img alt= "vazio" src= ../Images_Carac_Plataforma/vazio.png  width = "500"> | Aba Vazia | A tela sobre os Professores (Quem Somos > Professores) está vazia. |
+| <img alt= "mais_fotos" src= ../Images_Carac_Plataforma/mais_fotos.png  width = "100"> | Botão Não Funcional | Na tela inicial o botão "mais fotos" não funciona. |
 
 ## Referências Bibliográficas
 
