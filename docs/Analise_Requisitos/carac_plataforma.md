@@ -1,7 +1,7 @@
 ## Histórico de Versões
-| Data       | Versão | Descrição                            | Autores          | Revisor   |
-| ---------- | ------ | ------------------------------------ | -----------------| --------- |
-| 23/03/2021 | 0.1    | Criação do Documento                 | Gabriela Pivetta | --------- |
+| Data       | Versão | Descrição                            | Autores          | Revisor          |
+| ---------- | ------ | ------------------------------------ | -----------------| ---------------- |
+| 23/03/2021 | 0.1    | Criação do Documento                 | Gabriela Pivetta | Pedro Haick      |
 | 23/03/2021 | 0.2    | Elaboração do Documento              | Gabriela Pivetta | Eduarda Servidio |
 | 25/03/2021 | 0.3    | Aprofundamento dos tópicos abordados | Gabriela Pivetta | Eduarda Servidio |
 | 25/03/2021 | 0.4    | Adição das Características Negativas | Gabriela Pivetta | Eduarda Servidio |
