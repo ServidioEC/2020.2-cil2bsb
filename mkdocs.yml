@@ -14,7 +14,7 @@ nav:
     - Apresentações:
           - Apresentação 01: 'Apresentacao/Apresentacao_1/apresentacao1.md'
           - Apresentação 02: 'Apresentacao/apresentacao2.md'
-          #- Apresentação 03: ''
+          - Apresentação 03: 'Apresentacao/apresentacao3.md'
           #- Apresentação 04: ''
           #- Apresentação 05: ''
           #- Apresentação 06: ''
