@@ -1,4 +1,4 @@
-# Apresentação 01 - Planejamento do Projeto
+# Apresentação 02 - Perfil do Usuário
 
 ## Histórico de Versões
 
