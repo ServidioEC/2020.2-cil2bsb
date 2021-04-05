@@ -2,7 +2,7 @@
 
 | Data       | Versão | Descrição                               | Autores                             | Revisor            |
 | ---------- | ------ | --------------------------------------- | ----------------------------------- | ------------------ |
-| 25/03/2021 | 0.1    | Criação do Documento                    | Pedro Haick                         | ------------------ |
+| 25/03/2021 | 0.1    | Criação do Documento                    | Pedro Haick                         | Luis Marques       |
 
 ## Introdução
 
