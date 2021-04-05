@@ -30,6 +30,12 @@ nav:
           - Características da Plataforma: 'Analise_Requisitos/carac_plataforma.md'
           - Metas de Usabilidade: 'Analise_Requisitos/metas_usabilidade.md'
           - Guia de Estilo: 'Analise_Requisitos/guia_estilo.md'
-
+    - Design, Avaliação e Desenvolvimento:
+          - Nível 1:
+            - Planejamento da Análise de Tarefas: ''
+            - Avaliação da Análise de Tarefas: ''
+            - Planejamento do StoryBoard: ''
+            - Storyboard: ''
+            - Avaliação do Storyboard: ''
 
 docs_dir: docs/
