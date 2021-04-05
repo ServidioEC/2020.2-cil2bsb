@@ -17,10 +17,10 @@ onde foram detalhados os principais passos para atingir o objetivo de cada perso
 ## Metodologia
 
 ## Relato dos resultados
-<p align="justify">O relatório da Avaliação da Análise de Tarefas abrangerá o objetivo exposto nesse planejamento.
+<p align="justify">O relatório da <a href="https://interacao-humano-computador.github.io/2020.2-cil2bsb/Design_avaliacao_desenvolvimento/avaliacao_analise_tarefas/">Avaliação da Análise de Tarefas</a> abrangerá o objetivo exposto nesse planejamento.
 Os dados desse relatório irão expor as qualidades, os defeitos e possíveis melhorias
 encontrados ao longo da Avaliação. Assim, é possível definir se podemos prosseguir
-para o nível 2 da seção de Design, Avaliação e Desenvolvimento do Ciclo Mayhew
+para o nível 2 da seção de Design, Avaliação e Desenvolvimento do Ciclo de Mayhew
 que definimos no Processo de Design do projeto.</p>
 
 ## Referências bibliográficas
