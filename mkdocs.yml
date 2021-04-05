@@ -33,7 +33,7 @@ nav:
     - Design, Avaliação e Desenvolvimento:
           - Nível 1:
             - Planejamento da Análise de Tarefas: 'Design_avaliacao_desenvolvimento/planejamento_analise_tarefas.md'
-            - Avaliação da Análise de Tarefas: ''
+            - Avaliação da Análise de Tarefas: 'Design_avaliacao_desenvolvimento/avaliacao_analise_tarefas.md'
             - Planejamento do StoryBoard: ''
             - Storyboard: ''
             - Avaliação do Storyboard: ''
