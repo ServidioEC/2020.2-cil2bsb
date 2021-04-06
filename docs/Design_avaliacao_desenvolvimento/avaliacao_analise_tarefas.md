@@ -14,7 +14,7 @@
 <p align="justify">A tarefa a ser avaliada será a de encontrar informações sobre como realizar matrícula  nos cursos do CIL2BSB. A <a href="https://interacao-humano-computador.github.io/2020.2-cil2bsb/Analise_Requisitos/tarefas/">análise dessa tarefa</a> já foi realizada anteriormente.</p>
 
 #### Participante
-<p align="justify">A persona Fernanda Siqueira foi escolhida para participar do teste e executar a tarefa. A participante tem 17 anos, é aluna do ensino médio e tem conhecimento intermediário na utilização de sites.</p>
+<p align="justify">A <a href="https://interacao-humano-computador.github.io/2020.2-cil2bsb/Analise_Requisitos/personas/">persona</a> Fernanda Siqueira foi escolhida para participar do teste e executar a tarefa. A participante tem 17 anos, é aluna do ensino médio e tem conhecimento intermediário na utilização de sites.</p>
 
 ### Coleta de Dados
 
@@ -50,7 +50,7 @@ O que você acha que pode ser feito para melhorar essa funcionalidade no site?  
 <p align="justify">A tarefa a ser avaliada será a de encontrar notícias sobre o CIL2BSB. A <a href="https://interacao-humano-computador.github.io/2020.2-cil2bsb/Analise_Requisitos/tarefas/">análise dessa tarefa</a> já foi realizada anteriormente.</p>
 
 #### Participante
-<p align="justify">A persona Milena Barbosa foi escolhida para participar do teste e executar a tarefa. A participante tem 38 anos e é professora de língua inglesa no Centro Interescolar de Línguas 02 de Brasília. Milena tem conhecimento básico na utilização de sites.</p>
+<p align="justify">A <a href="https://interacao-humano-computador.github.io/2020.2-cil2bsb/Analise_Requisitos/personas/">persona</a>  Milena Barbosa foi escolhida para participar do teste e executar a tarefa. A participante tem 38 anos e é professora de língua inglesa no Centro Interescolar de Línguas 02 de Brasília. Milena tem conhecimento básico na utilização de sites.</p>
  
 
 ### Coleta de Dados
