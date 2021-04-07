@@ -68,5 +68,5 @@
 ### Visibilidade e reconhecimento
 <p align="justify"> A aplicação deste princípio corrigiria problemas que dificultam a usabilidade do site, como a dificuldade que existe em saber o que se pode fazer (por exemplo, ao clicar na logo da Secretaria de Educação, o usuário é direcionado ao site <a href = "http://www.educacao.df.gov.br/">http://www.educacao.df.gov.br/</a>, possibilidade que não é deixada explícita) ou não (por exemplo, por mais que a opção "CIL 2" seja listada dentro da seção "QUEM SOMOS" do cabeçalho, ela não pode ser visitada). </p>
 
-## Referências Bibliográficas
+## Bibliografia
 BARBOSA, Simone Diniz Junqueira; DA SILVA, Bruno Santana. **Interação humano-computador**. Elsevier, 2010. Cap. 8: Princípios e Diretrizes para o Design de IHC. 
