@@ -126,6 +126,6 @@ Para a análise usaremos os seguintes termos
     Goal 2 : Acessar as informações sobre novas matrículas
         OP : Clicar com o mouse em Matrículas Novas
 
-## Referências Bibliográficas
+## Bibliografia
 
 <p align="justify">BARBOSA, Simone et al. "Interação Humano-Computador". </p>
