@@ -2,10 +2,10 @@
 
 ## Histórico de Versões
 
-| Data       | Versão | Descrição                                     | Autores          | Revisor    |
-| ---------- | ------ | --------------------------------------------- | ---------------- | ---------- |
-| 05/04/2021 | 0.1    | Criação do documento                          | Eduarda Servidio | Hérya Rodrigues |
-| 06/04/2021 | 0.2    | Adição das tarefas 2 e 3                      | Hérya Rodrigues|            |
+| Data       | Versão | Descrição                                     | Autores          | Revisor          |
+| ---------- | ------ | --------------------------------------------- | ---------------- | ---------------- |
+| 05/04/2021 | 0.1    | Criação do documento                          | Eduarda Servidio | Hérya Rodrigues  |
+| 06/04/2021 | 0.2    | Adição das tarefas 2 e 3                      | Hérya Rodrigues  | Eduarda Servidio |
  
 ## Tarefa 2: Encontrar informações sobre como realizar a matrícula nos cursos do CIL2BSB
 
