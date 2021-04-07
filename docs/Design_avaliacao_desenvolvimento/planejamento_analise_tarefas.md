@@ -18,12 +18,9 @@ onde foram detalhados os principais passos para atingir o objetivo de cada perso
 <p align="justify">A metodologia que utilizamos para avaliar a Análise de Tarefas foi o teste de usabilidade
 representado na tabela abaixo:</p>
 
-| Atividades                                         | Tarefas                                                                                        |  
-| -------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
-| <b>Preparação</b>                                  | Definir o perfil das personas, as suas tarefas, seus objetivos e suas expectativas             |
-| <b>Coleta de Dados</b>                             | Analisar e registrar o desempenho e a opinião dos participantes durante o uso do site CIL2-BSB |
-| <b>Interpretação / Consolidação dos resultados</b> | Resumir/Consolidar os dados coletados dos participantes                                        |
-| <b>Relato dos Resultados</b>                       | Relatar o uso, o desempenho e a opinião dos participantes quanto ao uso do site do CIL2-BSB    |
+<img alt = "Tabela de Atividades do Teste de Usabilidade" src="../images/tabela_teste_usabilidade.jpg" width = "600"/>
+
+_Figura 1: Tabela de Atividades do Teste de Usabilidade. Tabela retirada do livro de Barbosa e Silva: Interação Humano-Computador._  
 
 ## Relato dos resultados
 <p align="justify">O relatório da <a href="https://interacao-humano-computador.github.io/2020.2-cil2bsb/Design_avaliacao_desenvolvimento/avaliacao_analise_tarefas/">Avaliação da Análise de Tarefas</a> abrangerá o objetivo exposto nesse planejamento.
