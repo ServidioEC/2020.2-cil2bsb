@@ -6,7 +6,44 @@
 | ---------- | ------ | --------------------------------------------- | ---------------- | ---------------- |
 | 05/04/2021 | 0.1    | Criação do documento                          | Eduarda Servidio | Hérya Rodrigues  |
 | 06/04/2021 | 0.2    | Adição das tarefas 2 e 3                      | Hérya Rodrigues  | Eduarda Servidio |
+| 07/04/2021 | 0.3    | Adição da tarefa 1                            | Pedro Haick      | ---------------- |
+
+## Tarefa 1: Descobrir mais sobre o CIL2BSB e, eventualmente, efetuar matrícula
+
+### Preparação
+#### Tarefa
+<p align="justify">A tarefa a ser avaliada será a de descobrir sobre o CIL2BSB, assim como o funcionamento do site. A <a href="https://interacao-humano-computador.github.io/2020.2-cil2bsb/Analise_Requisitos/tarefas/">análise dessa tarefa</a> já foi realizada anteriormente.</p>
+
+#### Participante
+<p align="justify">A <a href="https://interacao-humano-computador.github.io/2020.2-cil2bsb/Analise_Requisitos/personas/">persona</a> Ana Júlia Silva foi escolhida para participar do teste e executar a tarefa. A participante tem 16 anos, é aluna do ensino médio e possui pouco conhecimento acerca da utilização da internet e sites.</p>
+
+### Coleta de Dados
+
+<p align="justify">A participante foi informada sobre como o teste ocorreria e que tarefa deveria realizar. 
+
+Após isso, o teste foi realizado em um notebook com processador Intel i7 da 7ª geração e 8Gb de memória RAM, com acesso à internet.</p>
+
+#### Entrevista
+Ao final do teste, a usuária respondeu  a uma pequena entrevista:
+
+Pergunta   | Resposta
+--------- | ------
+Você já tinha acessado o site do CIL2BSB?   | Não.
+Você achou a execução da tarefa difícil? | Sim.
+Você acha que sem as instruções apresentadas, você conseguiria completar a tarefa?               | Sim.
+O que você acha que pode ser feito para melhorar essa funcionalidade no site?  | Adicionar uma seção de ajuda ao usuário e adicionar informações às abas vazias ou removê-las.
  
+
+### Interpretação e consolidação dos resultados
+<p align="justify">A participante teve dificuldades, porém conseguiu concluir a tarefa. No geral, a má organização do layout torna o site pouco amigável a usuários pouco experientes.</p>
+
+<p align="justify">A participante relatou que o site é muito pouco intuitivo, além de ter encontrado problemas de estilização.</p>
+
+### Relato dos resultados
+<p align="justify">Com base na observação e relatos da participante, percebeu-se que as tarefas apresentadas no <a href="https://interacao-humano-computador.github.io/2020.2-cil2bsb/Analise_Requisitos/tarefas/">Diagrama Hierárquico de tarefas</a> são possíveis de se concluir.</p>
+
+<p align="justify">Entretanto, a organização dos elementos na tela o torna pouco intuitivo e difícil de navegar, de forma que o sistema seja eficaz, porém pouco eficiente.</p>
+
 ## Tarefa 2: Encontrar informações sobre como realizar a matrícula nos cursos do CIL2BSB
 
 ### Preparação
