@@ -33,6 +33,6 @@ O sistema, como é atualmente, dependente de uma conexão com a internet e funci
 | <img alt= "vazio" src= ../Images_Carac_Plataforma/vazio.png  width = "500"> | Aba Vazia | A tela sobre os Professores (Quem Somos > Professores) está vazia. |
 | <img alt= "mais_fotos" src= ../Images_Carac_Plataforma/mais_fotos.png  width = "100"> | Botão Não Funcional | Na tela inicial o botão "mais fotos" não funciona. |
 
-## Referências Bibliográficas
+## Bibliografia
 
 BARBOSA, Simone Diniz Junqueira; DA SILVA, Bruno Santana. Interação humano-computador. Elsevier, 2010.
