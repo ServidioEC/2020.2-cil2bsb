@@ -38,6 +38,6 @@
 * Aprendizagem: É fácil aprender a usar?
 * Memorização: Que tipo de suporte é oferecido ao usuário para auxiliá-lo na realização das tarefas, especialmente os itens não recorrentes?
 
-## Referências
+## Bibliografia
 <p align="justify">NIELSEN, Jacob . Designing Web Usability: The Practice of Simplicity. Peachpit Press, 1a. edição, 1999.</p>
 <p align="justify">Diana Fournier. As 6 metas de Usabilidade. MEDIUM, 2016. https://medium.com/vivareal-ux-chapter/as-6-metas-de-usabilidade-9491442fd56a.</p>
