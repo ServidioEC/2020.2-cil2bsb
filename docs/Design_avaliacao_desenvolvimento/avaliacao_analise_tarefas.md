@@ -85,6 +85,6 @@ O que você acha que pode ser feito para melhorar essa funcionalidade no site?  
 <p align="justify">Ademais, a inexistência de uma barra de busca faz com que seja mais difícil procurar notícias específicas ou filtrá-las por conteúdo.</p>
 
 
-### Referências bibliográficas
+### Bibliografia
 
 <p align="justify">BARBOSA, Simone Diniz Junqueira; DA SILVA, Bruno Santana. Interação humano-computador. Elsevier, 2010. Cap. 10: Métodos de Avaliação de IHC. </p>
