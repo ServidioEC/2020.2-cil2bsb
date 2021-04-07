@@ -76,7 +76,7 @@
 
 <p align="justify">Cláudio Ferreira dos Santos é um jornalista brasileiro, mas reside na Alemanha há 25 anos. Para manter-se sempre informado dos acontecimentos do Brasil, em especial da capital, ele recorre à sites e portais brasileiros. Assim, o foco de Cláudio é em notícias sociais e políticas, e não informações relacionadas aos cursos do CIL2BSB.</p>
 
-## Referências Bibliográficas
+## Bibliografia
 
 <p align="justify">BARBOSA, Simone et al. "Interação Humano-Computador". </p>
 <p align="justify">Imagens das personas retiradas do site: thispersondoesnotexist.com </p>
