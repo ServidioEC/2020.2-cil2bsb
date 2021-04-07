@@ -78,5 +78,5 @@ Podemos concluir que a maioria das pessoas consideram importante a estética e a
 - Emissão de documentos;
 - Publicações com feitos recentes de alunos.
 
-## Referências Bibliográficas
+## Bibliografia
 BARBOSA, Simone Diniz Junqueira; DA SILVA, Bruno Santana. **Interação humano-computador**. Elsevier, 2010. Cap. 6. p. 174-175: Organização do Espaço de Problema. 
