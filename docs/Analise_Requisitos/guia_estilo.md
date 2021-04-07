@@ -237,7 +237,7 @@ _Figura 18: footer site do CIL2BSB. Disponível em: http://www.cil2bsb.com.br_
 
 <p aling="justify">O site não usa sequências de diálogos, sendo as informações transmitidas sempre unilateralmente(do site para o usuário).</p>
 
-## Referências Bibliográficas
+## Bibliografia
 
 <p align="justify">Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021)
 Interação Humano-Computador e Experiência do usuário. Autopublicação.
