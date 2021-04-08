@@ -1,8 +1,8 @@
 # Teste Piloto
 
-| Data       | Versão | Descrição                         | Autores      | Revisor |
-| ---------- | ------ | --------------------------------- | ------------ | ------- |
-| 08/04/2021 | 0.1    | Criação e elaboração do documento | Hérya Rodrigues | -----   |
+| Data       | Versão | Descrição                         | Autores         | Revisor      |
+| ---------- | ------ | --------------------------------- | --------------- | ------------ |
+| 08/04/2021 | 0.1    | Criação e elaboração do documento | Hérya Rodrigues | Pedro Haick  |
 
 ## Introdução
 <p align="justify">O teste piloto ocorrerá na forma de uma pequena entrevista, com participantes que se encaixem nos perfis de usuários já estabelecidos, e guiada por perguntas e pela realização de atividades simples.</p>
