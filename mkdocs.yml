@@ -23,19 +23,19 @@ nav:
           - Processo de Design: 'Planejamento/processo-de-design.md'
     - Análise de requisitos:
           - Análise do Perfil de Usuário:
-            - Análise de tarefas: 'Analise_Requisitos/tarefas.md'
-            - Perfil do usuário: 'Analise_Requisitos/perfil_usuario.md'
-            - Personas: 'Analise_Requisitos/personas.md'
+                - Análise de tarefas: 'Analise_Requisitos/tarefas.md'
+                - Perfil do usuário: 'Analise_Requisitos/perfil_usuario.md'
+                - Personas: 'Analise_Requisitos/personas.md'
           - Princípios Gerais de Projeto: 'Analise_Requisitos/principios_gerais.md'
           - Características da Plataforma: 'Analise_Requisitos/carac_plataforma.md'
           - Metas de Usabilidade: 'Analise_Requisitos/metas_usabilidade.md'
           - Guia de Estilo: 'Analise_Requisitos/guia_estilo.md'
     - Design, Avaliação e Desenvolvimento:
           - Nível 1:
-            - Planejamento da Avaliação da Análise de Tarefas: 'Design_avaliacao_desenvolvimento/planejamento_analise_tarefas.md'
-            - Avaliação da Análise de Tarefas: 'Design_avaliacao_desenvolvimento/avaliacao_analise_tarefas.md'
-            - Planejamento da Avaliação do Storyboard: 'Design_avaliacao_desenvolvimento/planejamento_storyboard.md'
-            - Storyboard: 'Design_avaliacao_desenvolvimento/storyboard.md'
-            - Avaliação do Storyboard: ''
+                - Planejamento da Avaliação da Análise de Tarefas: 'Design_avaliacao_desenvolvimento/planejamento_analise_tarefas.md'
+                - Avaliação da Análise de Tarefas: 'Design_avaliacao_desenvolvimento/avaliacao_analise_tarefas.md'
+                - Planejamento da Avaliação do Storyboard: 'Design_avaliacao_desenvolvimento/planejamento_storyboard.md'
+                - Storyboard: 'Design_avaliacao_desenvolvimento/storyboard.md'
+                - Avaliação do Storyboard: 'Design_avaliacao_desenvolvimento/avaliacao_storyboard.md'
 
 docs_dir: docs/
