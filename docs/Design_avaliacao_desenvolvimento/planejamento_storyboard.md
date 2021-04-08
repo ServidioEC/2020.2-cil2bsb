@@ -22,7 +22,7 @@
 | --------- |
 | 1) A ilustração apresentada condiz com a realidade do uso do site? |
 | 2) Você já passou por alguma situação semelhante a representada no storyboard? |
-| 3) Você possui alguma sugestão de alteração ou melhoria para o storyboadrs apresentado? |
+| 3) Você possui alguma sugestão de alteração ou melhoria para o storyboad apresentado? |
 
 ### Relatório da Avaliação
 <p align="justify"> Após a coleta das informações através dos questionamentos levantados com as personas do projeto, será elaborado um relato com os resultados da avaliação, onde estarão contidas as respostas para cada uma das perguntas, juntamente com as falhas que foram encontradas nos storyboards e a sugestão levantadas pelos avaliadores a partir dos problemas descritos. </p>
