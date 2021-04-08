@@ -6,7 +6,7 @@
 | ---------- | ------ | --------------------------------------------- | ---------------- | ---------------- |
 | 05/04/2021 | 0.1    | Criação do documento                          | Eduarda Servidio | Hérya Rodrigues  |
 | 06/04/2021 | 0.2    | Adição das tarefas 2 e 3                      | Hérya Rodrigues  | Eduarda Servidio |
-| 07/04/2021 | 0.3    | Adição da tarefa 1                            | Pedro Haick      | ---------------- |
+| 07/04/2021 | 0.3    | Adição da tarefa 1                            | Pedro Haick      | Eduarda Servidio |
 
 ## Tarefa 1: Descobrir mais sobre o CIL2BSB e, eventualmente, efetuar matrícula
 
