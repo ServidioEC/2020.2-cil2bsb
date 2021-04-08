@@ -19,7 +19,7 @@ O teste piloto permitirá a exposição de possíveis problemas existentes na me
 Ao final do teste, os dados coletados serão descartados para evitar possíveis contaminações por falhas no planejamento da avaliação.</p>
 
 ## Termo de consentimento
-<p align="justify">Um termo de consentimento foi elaborado para garantir que os participantes estarão cientes de suas garantias, riscos e responsabilidades durante o estudo. Este documento também atesta o consetimento do participante no estudo, de acordo com as condições explicitadas.</p>
+<p align="justify">Um termo de consentimento foi elaborado para garantir que os participantes estarão cientes de suas garantias, riscos e responsabilidades durante o estudo. Este documento também atesta o consentimento do participante no estudo, de acordo com as condições explicitadas.</p>
 
 ### Termo 
 
