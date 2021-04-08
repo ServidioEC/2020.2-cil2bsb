@@ -4,7 +4,7 @@
 | Data       | Versão | Descrição                                     | Autores          | Revisor          |
 | ---------- | ------ | --------------------------------------------- | ---------------- | ---------------- |
 | 06/04/2021 | 0.1    | Criação e elaboração do documento             | Giovana Dionisio | Eduarda Servidio |
-| 07/04/2021 | 0.2    | Correção de erros ortográficos                | Eduarda Servidio | ---------------- |
+| 07/04/2021 | 0.2    | Correção de erros ortográficos                | Eduarda Servidio | Giovana Dionisio |
 
 ## Introdução
 <p align="justify"> Os storyboards são protótipos de baixa fidelidade baseados em cenários. Este artefato é utilizado para representar uma interação entre o usuário e o sistema em desenvolvimento, possibilitando aos stakeholders simularem sua utilização através da observação. </p>
