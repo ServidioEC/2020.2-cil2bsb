@@ -1,4 +1,4 @@
-# Apresentação 04 - Planejamento e Teste Pilot dos Storyboards e Análise de Tarefas
+# Apresentação 04 - Planejamento e Teste Piloto dos Storyboards e Análise de Tarefas
 
 ## Histórico de Versões
 
