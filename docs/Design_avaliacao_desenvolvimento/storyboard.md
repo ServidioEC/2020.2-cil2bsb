@@ -4,7 +4,7 @@
 | 06/04/2021 | 0.1    | Criação do Documento                 | Gabriela Pivetta | Eduarda Servidio  |
 | 06/04/2021 | 0.2    | Elaboração da Introdução, Objetivo e Referências   | Gabriela Pivetta | Eduarda Servidio  |
 | 07/04/2021 | 0.3    | Elaboração da Metodologia e Storyboards  | Gabriela Pivetta | Eduarda Servidio  |
-| 07/04/2021 | 0.4    | Justificação dos textos e correção da bibliografia | Eduarda Servidio | ---------------  |
+| 07/04/2021 | 0.4    | Justificação dos textos e correção da bibliografia | Eduarda Servidio | Giovana Dionisio |
 
 ## Introdução 
 
